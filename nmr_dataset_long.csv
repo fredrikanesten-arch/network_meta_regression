@@ -1,0 +1,812 @@
+studyid,arm,treatment,classcode,class,n,mean_change,sd_change,data_type,country,duration_weeks,mean_age,pct_female,baseline_scale,baseline_mean,baseline_sd,rob_sequence,rob_allocation,rob_blind_pp,rob_blind_outcome,rob_attrition,rob_reporting,rob_other,rob_score_sequence,rob_score_allocation,rob_score_blind_pp,rob_score_blind_out,rob_score_attrition,rob_high_any
+003-008 (FDA),1,1,1,Placebo,28,-9.6,7.7,CFB,US,6,39,65,HAMD,25.77,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+003-008 (FDA),2,6,6,Mirtazapine,30,-7.6,7.7,CFB,US,6,39,65,HAMD,25.77,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+003-008 (FDA),3,6,6,Mirtazapine,28,-7.3,7.7,CFB,US,6,39,65,HAMD,25.77,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+29060 07 001,1,1,1,Placebo,11,-10.91,9.38604815670578,CFB,US,6,43.2,58,HAMD,29.73,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+29060 07 001,2,43,27,SSRIs,12,-13.08,10.2190997646564,CFB,US,6,43.2,58,HAMD,29.73,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+29060 07 001,3,45,28,TCAs,13,-13.31,11.1050979284291,CFB,US,6,43.2,58,HAMD,29.73,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+29060/299,1,43,27,SSRIs,102,-14.3,9.35,CFB,Europe,8,40.4,NA,HAMD,27.84,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+29060/299,2,45,28,TCAs,100,-14.39,8.39,CFB,Europe,8,40.4,NA,HAMD,27.84,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Aguglia 1993,1,42,27,SSRIs,40,-15.899999999999999,8.326463835266445,BF,Italy,8,58.2,75,MADRS,33.17,7.84,High risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,2,1,0,1,2,1
+Aguglia 1993,2,44,27,SSRIs,48,-17.299999999999997,9.328987083279728,BF,Italy,8,58.2,75,MADRS,33.17,7.84,High risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,2,1,0,1,2,1
+Ai 2018,1,43,27,SSRIs,50,-18.57,5.3301125691677465,BF,China,6,20.2,55,HAMD,31.81,5.31,Low risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,0,1,2,0,0,1
+Ai 2018,2,97,49,Acupuncture + AD,50,-21.71,4.709278076308512,BF,China,6,20.2,55,HAMD,31.81,5.31,Low risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,0,1,2,0,0,1
+Akhondzadeh 2003,1,42,27,SSRIs,17,-16.82,11.08,CFB,Iran,6,35.8,40,NR,NA,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Akhondzadeh 2003,2,50,28,TCAs,20,-20.3,8.12,CFB,Iran,6,35.8,40,NR,NA,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Albornoz 2011,1,3,3,No treatment,12,-3.84,7.161340656608929,BF,Venezuela,12,NA,0,HAMD,19.580000000000002,6.23,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,2,1,0,1
+Albornoz 2011,2,30,19,Music therapy group,12,-7.83,4.617889128162346,BF,Venezuela,12,NA,0,HAMD,19.580000000000002,6.23,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,2,1,0,1
+Alexopoulos 2003b,1,15,11,Problem solving individual,12,-16.81,5.418662196520466,BF,US,12,74.1,52,HAMD,24.65,4.58,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,1,1,2,1,0,1
+Alexopoulos 2003b,2,17,13,Counselling individual,13,-11.430000000000001,5.93854359249808,BF,US,12,74.1,52,HAMD,24.65,4.58,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,1,1,2,1,0,1
+Allard 2004,1,40,27,SSRIs,75,-17.4,7.209022125087426,BF,Sweden & Denmark,22,73,80,MADRS,27.3,3.6,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Allard 2004,2,52,29,SNRIs,73,-18,6.85054742338158,BF,Sweden & Denmark,22,73,80,MADRS,27.3,3.6,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Allen 2006,1,4,4,Waitlist,52,-7.443281745017741,4.2,BIN,US,8,41.2,69,HAMD,22.31,4.66,Low risk,Unclear risk,High risk,Low risk,Low risk,High risk,High risk,0,1,2,0,0,1
+Allen 2006,2,56,31,Sham acupuncture,52,-9.279487685584922,5,BIN,US,8,41.2,69,HAMD,22.31,4.66,Low risk,Unclear risk,High risk,Low risk,Low risk,High risk,High risk,0,1,2,0,0,1
+Allen 2006,3,59,32,Acupuncture,53,-7.138184728718421,4.8,BIN,US,8,41.2,69,HAMD,22.31,4.66,Low risk,Unclear risk,High risk,Low risk,Low risk,High risk,High risk,0,1,2,0,0,1
+Alves 1999,1,42,27,SSRIs,47,-14.395156621793028,3.9,BIN,Portugal,12,43.7,92,HAMD,27.34,4.54,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Alves 1999,2,52,29,SNRIs,40,-15.953666425319351,5.2,BIN,Portugal,12,43.7,92,HAMD,27.34,4.54,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Amsterdam 1986,1,1,1,Placebo,54,-5.699999999999999,7.463718912177763,BF,US,4,41,33,HAMD,23.96,4.57,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Amsterdam 1986,2,45,28,TCAs,55,-12.4,7.439764781227965,BF,US,4,41,33,HAMD,23.96,4.57,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Andreescu 2011,1,55,31,Sham acupuncture,22,-7.9,7.4,CFB,US,6,47.5,68,HAMD,18.12,3.46,Unclear risk,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,High risk,1,1,1,0,0,0
+Andreescu 2011,2,57,32,Acupuncture,23,-7.4,6.2,CFB,US,6,47.5,68,HAMD,18.12,3.46,Unclear risk,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,High risk,1,1,1,0,0,0
+Andreoli 2002/Dubini 1997/Massana 1998_study 1,1,1,1,Placebo,128,-8.6,4.47,CFB,"Brazil, France, Ireland, Italy, Poland, and UK",8,42.2,60,HAMD,27.15,3.6,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Andreoli 2002/Dubini 1997/Massana 1998_study 1,2,42,27,SSRIs,127,-13.3,4.6,CFB,"Brazil, France, Ireland, Italy, Poland, and UK",8,42.2,60,HAMD,27.15,3.6,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Arean 1993,1,4,4,Waitlist,20,-0.3999999999999986,5.07444578254611,BF,US,12,66.4,77,HAMD,23.76,5.7,Unclear risk,Unclear risk,High risk,Low risk,High risk,Unclear risk,Unclear risk,1,1,2,0,2,1
+Arean 1993,2,16,12,Problem solving group,19,-16.4,6.02245796996542,BF,US,12,66.4,77,HAMD,23.76,5.7,Unclear risk,Unclear risk,High risk,Low risk,High risk,Unclear risk,Unclear risk,1,1,2,0,2,1
+Arean 2010,1,15,11,Problem solving individual,110,-11.270000000000001,7.148251534466313,BF,US,12,73,NA,HAMD,24.3,4.26,Low risk,Unclear risk,High risk,Low risk,Low risk,High risk,Low risk,0,1,2,0,0,1
+Arean 2010,2,17,13,Counselling individual,111,-8.62,6.550572494064927,BF,US,12,73,NA,HAMD,24.3,4.26,Low risk,Unclear risk,High risk,Low risk,Low risk,High risk,Low risk,0,1,2,0,0,1
+Ashouri 2013,1,53,30,Any AD,13,-8.749999999999996,5.6707230579530155,BF,Iran,NA,32.5,61,BDI-II,35.18,5.55,Unclear risk,Unclear risk,High risk,High risk,Low risk,Unclear risk,Unclear risk,1,1,2,2,0,1
+Ashouri 2013,2,69,38,Cognitive and cognitive behavioural therapies individual + AD,10,-16.099999999999998,5.117069473829723,BF,Iran,NA,32.5,61,BDI-II,35.18,5.55,Unclear risk,Unclear risk,High risk,High risk,Low risk,Unclear risk,Unclear risk,1,1,2,2,0,1
+Ashouri 2013,3,75,38,Cognitive and cognitive behavioural therapies individual + AD,10,-21,3.5328883367578996,BF,Iran,NA,32.5,61,BDI-II,35.18,5.55,Unclear risk,Unclear risk,High risk,High risk,Low risk,Unclear risk,Unclear risk,1,1,2,2,0,1
+Badyal 2005,1,51,29,SNRIs,13,-16.93019218068212,2.5,BIN,India,6,42.9,35,HAMD,27.72,2.54,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,High risk,0,1,2,1,1,1
+Badyal 2005,2,52,29,SNRIs,13,-17.558672962613908,2.25,BIN,India,6,42.9,35,HAMD,27.72,2.54,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,High risk,0,1,2,1,1,1
+Bakish 1992b,1,1,1,Placebo,56,-10.216661369789971,3.56,BIN,Canada,6,43,43,HAMD,22.92,3.48,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Bakish 1992b,2,45,28,TCAs,59,-12.064806166068207,3.43,BIN,Canada,6,43,43,HAMD,22.92,3.48,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Baldwin 2006b,1,41,27,SSRIs,165,-76.36,5.908787379126166,BF,6 countries (no further detail reported),8,45,74,MADRS,29.65,4.15,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Baldwin 2006b,2,43,27,SSRIs,158,-77.71,5.852088657900742,BF,6 countries (no further detail reported),8,45,74,MADRS,29.65,4.15,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Baldwin 2012,1,1,1,Placebo,145,-14.8,9.63,CFB,"Australia, Bulgaria, Canada, the Czech Republic, Estonia, Finland, France, Hong Kong, India, the Republic of Korea, Latvia, Lithuania, Malaysia, the Philippines, Romania, Slovakia, Spain, Taiwan, Turkey & Ukraine",8,44.4,68,MADRS,31.55,4.25,Low risk,Low risk,Low risk,High risk,Low risk,Low risk,High risk,0,0,0,2,0,1
+Baldwin 2012,2,51,29,SNRIs,149,-16.8,9.77,CFB,"Australia, Bulgaria, Canada, the Czech Republic, Estonia, Finland, France, Hong Kong, India, the Republic of Korea, Latvia, Lithuania, Malaysia, the Philippines, Romania, Slovakia, Spain, Taiwan, Turkey & Ukraine",8,44.4,68,MADRS,31.55,4.25,Low risk,Low risk,Low risk,High risk,Low risk,Low risk,High risk,0,0,0,2,0,1
+Balestrieri 1971,1,45,28,TCAs,37,-12.989999999999998,9.291307765863749,BF,Italy,3,NA,NA,HAMD,24.18,6.72,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,High risk,Unclear risk,1,1,0,0,0,0
+Balestrieri 1971,2,48,28,TCAs,37,-11.93,7.3193715577226985,BF,Italy,3,NA,NA,HAMD,24.18,6.72,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,High risk,Unclear risk,1,1,0,0,0,0
+Basterzi 2009,1,42,27,SSRIs,22,-13.6,7.036334272900912,BF,Turkey,6,31.5,70,HAMD,26.09,4.21,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,Low risk,1,1,1,1,0,0
+Basterzi 2009,2,52,29,SNRIs,21,-15.3,7.066116330771806,BF,Turkey,6,31.5,70,HAMD,26.09,4.21,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,Low risk,1,1,1,1,0,0
+Baune 2018,1,1,1,Placebo,48,-8,8.38,CFB,"Estonia, Finland, Germany, & Lithuania",8,45.7,64,MADRS,31.54,3.34,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Baune 2018,2,43,27,SSRIs,52,-15.96,8.58,CFB,"Estonia, Finland, Germany, & Lithuania",8,45.7,64,MADRS,31.54,3.34,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Beach 1992,1,4,4,Waitlist,15,-7.859999999999999,9.251535007770332,BF,US,15,NA,100,BDI,28.3,6.2,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Beach 1992,2,10,9,Cognitive and cognitive behavioural therapies individual,15,-17.4,7.366437402163952,BF,US,15,NA,100,BDI,28.3,6.2,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Beasley 1991a,1,7,7,Trazodone,57,-13.9,7.7,CFB,US,6,40,67,HAMD,23.84,3.19,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Beasley 1991a,2,42,27,SSRIs,63,-12.2,7.2,CFB,US,6,40,67,HAMD,23.84,3.19,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Beasley 1993b,1,42,27,SSRIs,65,-12.9,9.9,CFB,US,5,44.8,70,HAMD,28.24,5.74,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Beasley 1993b,2,45,28,TCAs,71,-11.6,10.3,CFB,US,5,44.8,70,HAMD,28.24,5.74,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Benkert 1996,1,48,28,TCAs,82,-19.538495365278152,5.7,BIN,"Belgium, France, Germany, Italy, & Switzerland",6,47.4,68,MADRS,36.36,5.96,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Benkert 1996,2,52,29,SNRIs,85,-18.674344123355993,6.2,BIN,"Belgium, France, Germany, Italy, & Switzerland",6,47.4,68,MADRS,36.36,5.96,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Benkert 2000,1,6,6,Mirtazapine,139,-11.468089056553147,3.3,BIN,Germany,6,47.3,63,HAMD,22.400000000000002,3.24,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Benkert 2000,2,43,27,SSRIs,136,-11.082014295481342,3.2,BIN,Germany,6,47.3,63,HAMD,22.400000000000002,3.24,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Bersani 1994,1,44,27,SSRIs,31,-17,6.025777958073132,BF,Italy,8,47.1,63,HAMD,32.51,5.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Bersani 1994,2,45,28,TCAs,30,-16,5.56506963119061,BF,Italy,8,47.1,63,HAMD,32.51,5.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Bhargava 2012,1,44,27,SSRIs,30,-11.7,3.088219551780605,BF,India,12,36.2,52,HAMD,26.47,2.12,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Bhargava 2012,2,48,28,TCAs,30,-13.33,4.115191368575707,BF,India,12,36.2,52,HAMD,26.47,2.12,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Bielski 2004,1,41,27,SSRIs,97,-15.9,10.3,CFB,US,8,37.4,58,MADRS,30.35,4.81,High risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,2,1,0,0,0,1
+Bielski 2004,2,52,29,SNRIs,98,-13.6,9.6,CFB,US,8,37.4,58,MADRS,30.35,4.81,High risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,2,1,0,0,0,1
+Binnemann 2008,1,1,1,Placebo,31,-10.18,7.57,CFB,"US, Serbia and Montenegro, & the Russian Federation",6,49,39,HAMD,23.43,3.98,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Binnemann 2008,2,44,27,SSRIs,30,-13.42,7.61,CFB,"US, Serbia and Montenegro, & the Russian Federation",6,49,39,HAMD,23.43,3.98,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Bjerkenstedt 2005,1,1,1,Placebo,55,-9.7,7,CFB,Sweden,4,50.9,79,HAMD,24.51,4.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Bjerkenstedt 2005,2,42,27,SSRIs,54,-8.9,8,CFB,Sweden,4,50.9,79,HAMD,24.51,4.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Blackburn 1997,1,10,9,Cognitive and cognitive behavioural therapies individual,24,-9.5,6.274551776820397,BF,UK,16,39.3,64,HAMD,20.27,4.18,High risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,2,1,2,0,0,1
+Blackburn 1997,2,53,30,Any AD,21,-9.200000000000001,6.609084656743323,BF,UK,16,39.3,64,HAMD,20.27,4.18,High risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,2,1,2,0,0,1
+Blackburn 1997,3,53,30,Any AD,17,-8.3,5.467174773134658,BF,UK,16,39.3,64,HAMD,20.27,4.18,High risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,2,1,2,0,0,1
+Blashki 1971,1,1,1,Placebo,18,-7.499999999999998,8.31384387633061,BF,Australia,4,36.7,100,HAMD,17.62,4.89,Unclear risk,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,Unclear risk,1,0,0,0,1,0
+Blashki 1971,2,45,28,TCAs,13,-11.1,5.302829433425141,BF,Australia,4,36.7,100,HAMD,17.62,4.89,Unclear risk,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,Unclear risk,1,0,0,0,1,0
+Blashki 1971,3,45,28,TCAs,14,-12.500000000000002,4.712748667179272,BF,Australia,4,36.7,100,HAMD,17.62,4.89,Unclear risk,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,Unclear risk,1,0,0,0,1,0
+Blom 2007,1,18,14,Interpersonal psychotherapy (IPT) individual,50,-9.899999999999999,9.792343948207701,BF,Netherlands,12,40,58,MADRS,29.66,5.99,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,1,1,1,1,0
+Blom 2007,2,36,24,Interpersonal psychotherapy (IPT) individual + placebo,47,-11.100000000000001,10.653168542738822,BF,Netherlands,12,40,58,MADRS,29.66,5.99,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,1,1,1,1,0
+Blom 2007,3,53,30,Any AD,47,-6.400000000000002,8.675828490697588,BF,Netherlands,12,40,58,MADRS,29.66,5.99,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,1,1,1,1,0
+Blom 2007,4,78,40,Interpersonal psychotherapy (IPT) individual + AD,49,-12.8,9.439809320108113,BF,Netherlands,12,40,58,MADRS,29.66,5.99,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,1,1,1,1,0
+Blumenthal 2007/Hoffman 2011,1,1,1,Placebo,49,-6.1,7.3,CFB,US,16,52,76,HAMD,17,5,Low risk,Low risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,0,2,0,1,1
+Blumenthal 2007/Hoffman 2011,2,44,27,SSRIs,49,-6.1,6.7,CFB,US,16,52,76,HAMD,17,5,Low risk,Low risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,0,2,0,1,1
+Blumenthal 2007/Hoffman 2011,3,62,33,Exercise individual,53,-7.1,6.9,CFB,US,16,52,76,HAMD,17,5,Low risk,Low risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,0,2,0,1,1
+Blumenthal 2007/Hoffman 2011,4,63,34,Exercise group,51,-7.2,6.9,CFB,US,16,52,76,HAMD,17,5,Low risk,Low risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,0,2,0,1,1
+Bose 2008,1,1,1,Placebo,134,-10.6,10.42,CFB,US,12,68.3,59,MADRS,28.89,3.88,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Bose 2008,2,41,27,SSRIs,129,-12.1,10.22,CFB,US,12,68.3,59,MADRS,28.89,3.88,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Boulenger 2006,1,41,27,SSRIs,228,-95.6,5.632946712496982,BF,"Denmark, France, Germany, Greece, Italy & The Netherlands",24,44.3,68,MADRS,35,3.75,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Boulenger 2006,2,43,27,SSRIs,223,-92.69999999999999,5.686539710966275,BF,"Denmark, France, Germany, Greece, Italy & The Netherlands",24,44.3,68,MADRS,35,3.75,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Boulenger 2014,1,1,1,Placebo,158,-11.7,9.55,CFB,"Belgium, Estonia, Finland, France, Germany, Latvia, Lithuania, Norway, Russia, Slovakia, South Africa, Sweden & Ukraine",8,46.9,70,MADRS,31.36,3.55,Low risk,Low risk,Low risk,High risk,Low risk,High risk,High risk,0,0,0,2,0,1
+Boulenger 2014,2,51,29,SNRIs,146,-21.15,9.3,CFB,"Belgium, Estonia, Finland, France, Germany, Latvia, Lithuania, Norway, Russia, Slovakia, South Africa, Sweden & Ukraine",8,46.9,70,MADRS,31.36,3.55,Low risk,Low risk,Low risk,High risk,Low risk,High risk,High risk,0,0,0,2,0,1
+Bowman 1995,1,4,4,Waitlist,10,-0.1999999999999993,7.196526940128829,BF,US,4,36.2,63,HAMD,19.9,5.18,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Bowman 1995,2,20,16,Self-help,10,-8.500000000000002,6.615889962809236,BF,US,4,36.2,63,HAMD,19.9,5.18,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Bowman 1995,3,20,16,Self-help,10,-9.6,4.20356991139674,BF,US,4,36.2,63,HAMD,19.9,5.18,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Boyer 1998,1,42,27,SSRIs,115,-17.9,6.967909305378377,BF,France,26,43.4,78,MADRS,28.65,5.65,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Boyer 1998,2,44,27,SSRIs,116,-17.9,6.639971794448689,BF,France,26,43.4,78,MADRS,28.65,5.65,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Brannan 2005,1,1,1,Placebo,136,-10.27,7.81,CFB,US,7,40.6,65,HAMD,22.9,3.48,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Brannan 2005,2,51,29,SNRIs,132,-10.85,7.93,CFB,US,7,40.6,65,HAMD,22.9,3.48,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Burke 2002,1,1,1,Placebo,119,-9.4,9.82,CFB,US,8,40.1,65,MADRS,28.91,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Burke 2002,2,40,27,SSRIs,125,-12,10.06,CFB,US,8,40.1,65,MADRS,28.91,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Burke 2002,3,41,27,SSRIs,118,-12.8,8.69,CFB,US,8,40.1,65,MADRS,28.91,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Burke 2002,4,41,27,SSRIs,123,-13.9,8.87,CFB,US,8,40.1,65,MADRS,28.91,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Carman 1991,1,1,1,Placebo,48,-7.5,7.76,CFB,US,6,NA,NA,HAMD,27.15,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Carman 1991,2,45,28,TCAs,48,-13.5,7.76,CFB,US,6,NA,NA,HAMD,27.15,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Chang 2015,1,42,27,SSRIs,58,-16.3,6.920260110718383,BF,Taiwan,6,39.7,73,HAMD,25.1,5.8,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,1,1,1,0
+Chang 2015,2,52,29,SNRIs,54,-17.2,7.422263805605404,BF,Taiwan,6,39.7,73,HAMD,25.1,5.8,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,1,1,1,0
+Chiu 1996,1,43,27,SSRIs,15,-20.2,9.1,CFB,Taiwan,6,45.7,63,HAMD,27.5,4.9,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Chiu 1996,2,48,28,TCAs,15,-15.3,8.4,CFB,Taiwan,6,45.7,63,HAMD,27.5,4.9,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Choi 2012,1,4,4,Waitlist,30,0.4400000000000013,7.723807351300264,BF,Australia,8,39,80,BDI,23.07,8.33,High risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,2,0,2,1,0,1
+Choi 2012,2,25,17,Self-help with support,25,-12.280000000000001,8.928656113884106,BF,Australia,8,39,80,BDI,23.07,8.33,High risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,2,0,2,1,0,1
+Choi 2014a/Choi 2014b,1,2,2,Attention placebo,36,-5.710000000000001,6.740059346919728,BF,US,12,65.2,78,HAMD,24.55,6.62,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Choi 2014a/Choi 2014b,2,15,11,Problem solving individual,43,-9.86,6.151812740973184,BF,US,12,65.2,78,HAMD,24.55,6.62,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Choi 2014a/Choi 2014b,3,15,11,Problem solving individual,42,-13.67,5.767867890304007,BF,US,12,65.2,78,HAMD,24.55,6.62,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Chouinard 1999,1,42,27,SSRIs,98,-14.78,10.8894444302728,CFB,Canada,12,40.9,62,HAMD,25.68,7.18,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Chouinard 1999,2,43,27,SSRIs,100,-13.92,11,CFB,Canada,12,40.9,62,HAMD,25.68,7.18,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Claghorn 1992a,1,1,1,Placebo,27,-4.59,9.35,CFB,US,6,NA,NA,NR,NA,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Claghorn 1992a,2,43,27,SSRIs,32,-10.72,9.39,CFB,US,6,NA,NA,NR,NA,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Claghorn 1992b,1,1,1,Placebo,27,-5.49,8.31,CFB,US,6,35,32,HAMD,24.799999999999997,3.7,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Claghorn 1992b,2,43,27,SSRIs,32,-11.44,8.32,CFB,US,6,35,32,HAMD,24.799999999999997,3.7,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Clayton 2006_study 1,1,1,1,Placebo,130,-12.1,7.98,CFB,US,8,35,61,HAMD,23.299999999999997,3.03,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Clayton 2006_study 1,2,41,27,SSRIs,133,-14.2,8.07,CFB,US,8,35,61,HAMD,23.299999999999997,3.03,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Clayton 2006_study 2,1,1,1,Placebo,126,-11.9,7.86,CFB,US,8,36.5,56,HAMD,23.3,3.58,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Clayton 2006_study 2,2,41,27,SSRIs,133,-12.9,8.07,CFB,US,8,36.5,56,HAMD,23.3,3.58,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Clerc 1994,1,42,27,SSRIs,34,-15.700000000000003,13.228756555322953,BF,France & Belgium,6,51.3,68,MADRS,35.26,4.98,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Clerc 1994,2,52,29,SNRIs,33,-22.799999999999997,10.714009520249645,BF,France & Belgium,6,51.3,68,MADRS,35.26,4.98,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Cohn 1990b,1,44,27,SSRIs,121,-13.3,7.76,CFB,US,8,70.3,49,HAMD,24.2,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Cohn 1990b,2,45,28,TCAs,64,-14.2,7.76,CFB,US,8,70.3,49,HAMD,24.2,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Colonna 2005,1,40,27,SSRIs,182,-18.229586734604926,4.7,BIN,"Austria, Belgium, Denmark, France, Germany, Norway, & Sweden",24,46,74,MADRS,29.86,4.52,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,High risk,0,0,0,0,0,0
+Colonna 2005,2,41,27,SSRIs,175,-17.708565315351915,4.3,BIN,"Austria, Belgium, Denmark, France, Germany, Norway, & Sweden",24,46,74,MADRS,29.86,4.52,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,High risk,0,0,0,0,0,0
+Connolly Gibbons 2012,1,29,18,Short-term psychodynamic psychotherapies individual,16,-6.399999999999999,5.820472489411834,BF,US,12,40.8,90,HAMD,21.4,4.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Connolly Gibbons 2012,2,33,22,Any psychotherapy,15,-3.8999999999999986,6.611837868550619,BF,US,12,40.8,90,HAMD,21.4,4.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Connolly Gibbons 2016,1,10,9,Cognitive and cognitive behavioural therapies individual,119,-5.02,5.118622861668947,BF,US,22,36.2,75,HAMD,21.07,5.8,Low risk,Low risk,High risk,Low risk,Unclear risk,High risk,Unclear risk,0,0,2,0,1,1
+Connolly Gibbons 2016,2,29,18,Short-term psychodynamic psychotherapies individual,118,-4.16,5.319013066349808,BF,US,22,36.2,75,HAMD,21.07,5.8,Low risk,Low risk,High risk,Low risk,Unclear risk,High risk,Unclear risk,0,0,2,0,1,1
+Cornelius 1997,1,37,25,Counselling individual + placebo,26,-2,13.3,CFB,US,12,34.8,49,HAMD,18.54,8.09,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Low risk,2,1,0,1,1,1
+Cornelius 1997,2,81,41,Counselling individual + AD,25,-6,9.6,CFB,US,12,34.8,49,HAMD,18.54,8.09,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Low risk,2,1,0,1,1,1
+Costa 1998,1,42,27,SSRIs,186,-20.6,6.898550572402872,BF,"Argentina, Brazil, Chile, Colombia, Uruguay, & Venezuela",8,40.2,79,HAMD,30.06,5.78,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Costa 1998,2,52,29,SNRIs,196,-21.4,7.544534445544006,BF,"Argentina, Brazil, Chile, Colombia, Uruguay, & Venezuela",8,40.2,79,HAMD,30.06,5.78,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Costa 2016,1,26,17,Self-help with support,19,-9.600000000000001,11.05305387664423,BF,UK,1,38.5,76,BDI-II,30,7.79,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,2,1,0,1
+Costa 2016,2,27,17,Self-help with support,18,-13.7,6.954135460285484,BF,UK,1,38.5,76,BDI-II,30,7.79,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,2,1,0,1
+Cutler 2009,1,1,1,Placebo,152,-71.78,6.386706041854399,BF,US,6,41.3,63,MADRS,30.35,4.76,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Cutler 2009,2,51,29,SNRIs,141,-75.44,6.083134085890865,BF,US,6,41.3,63,MADRS,30.35,4.76,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+De Ronchi 1998,1,42,27,SSRIs,32,-11.38,7.405207627068941,BF,Italy,10,68.9,72,HAMD,26.06,5.76,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Unclear risk,High risk,1,1,0,0,0,0
+De Ronchi 1998,2,45,28,TCAs,33,-12.56,8.198225417735232,BF,Italy,10,68.9,72,HAMD,26.06,5.76,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Unclear risk,High risk,1,1,0,0,0,0
+DeJonghe 2001/Kool 2003,1,53,30,Any AD,20,-9.1,7.885004755864133,BF,Netherlands,24,NA,NA,HAMD,20.4,5.2,High risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,High risk,2,1,2,0,1,1
+DeJonghe 2001/Kool 2003,2,82,42,Short-term psychodynamic psychotherapies individual + AD,23,-8.61,5.852725860656725,BF,Netherlands,24,NA,NA,HAMD,20.4,5.2,High risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,High risk,2,1,2,0,1,1
+DeNayer 2002,1,42,27,SSRIs,67,-10.4,8.6,CFB,Belgium,12,42.8,68,HAMD,23.05,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+DeNayer 2002,2,52,29,SNRIs,64,-14.4,7.6,CFB,Belgium,12,42.8,68,HAMD,23.05,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+DeWilde 1993,1,42,27,SSRIs,41,-15,10.3,CFB,Belgium,6,44.4,62,HAMD,27.63,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+DeWilde 1993,2,43,27,SSRIs,37,-17.3,9.5,CFB,Belgium,6,44.4,62,HAMD,27.63,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Dekker 2005,1,82,42,Short-term psychodynamic psychotherapies individual + AD,45,-8.299999999999999,5.9025418253494815,BF,Netherlands,24,NA,64,HAMD,19.9,4.1,Low risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,High risk,0,1,2,0,1,1
+Dekker 2005,2,82,42,Short-term psychodynamic psychotherapies individual + AD,45,-8.200000000000001,6.609084656743323,BF,Netherlands,24,NA,64,HAMD,19.9,4.1,Low risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,High risk,0,1,2,0,1,1
+Demyttenaere 1998,1,42,27,SSRIs,35,-14.999999999999998,5.538050198400155,BF,Belgium,9,41.7,55,HAMD,24.43,3.92,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Demyttenaere 1998,2,45,28,TCAs,31,-16.7,4.1581245772583575,BF,Belgium,9,41.7,55,HAMD,24.43,3.92,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Detke 2002a,1,1,1,Placebo,139,-49.21,5.472211774825253,BF,US,9,41,69,HAMD,20.4,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2002a,2,51,29,SNRIs,128,-51.12,5.472211774825253,BF,US,9,41,69,HAMD,20.4,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2002b,1,1,1,Placebo,122,-48.33,5.643599390573292,BF,US,9,42.4,67,HAMD,21.28,3.92,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2002b,2,51,29,SNRIs,123,-53.75,5.857725435884712,BF,US,9,42.4,67,HAMD,21.28,3.92,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2004,1,1,1,Placebo,93,-8.8,4.82,CFB,US,8,43.4,73,HAMD,20.07,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2004,2,43,27,SSRIs,85,-11.7,4.61,CFB,US,8,43.4,73,HAMD,20.07,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2004,3,51,29,SNRIs,93,-11,4.82,CFB,US,8,43.4,73,HAMD,20.07,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Detke 2004,4,51,29,SNRIs,93,-12.1,4.82,CFB,US,8,43.4,73,HAMD,20.07,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Deushle 2003,1,43,27,SSRIs,40,-10.900000000000002,7.118988692223074,BF,Germany,5,54.1,67,HAMD,22.2,5.8,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Deushle 2003,2,45,28,TCAs,40,-13.5,6.481512169239521,BF,Germany,5,54.1,67,HAMD,22.2,5.8,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Diaz-Martinez 1998,1,42,27,SSRIs,55,-24,7.170064513084519,BF,Mexico,8,NA,72,MADRS,31.5,6.12,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,High risk,1,1,2,2,1,1
+Diaz-Martinez 1998,2,52,29,SNRIs,55,-23.099999999999998,7.102259599865576,BF,Mexico,8,NA,72,MADRS,31.5,6.12,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,High risk,1,1,2,2,1,1
+Dierick 1996,1,42,27,SSRIs,161,-14.200000000000001,7.697817872618189,BF,"Belgium, Italy, Switzerland & France",8,43.4,65,HAMD,26.79,4.14,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Dierick 1996,2,52,29,SNRIs,153,-16.3,8.606392972668631,BF,"Belgium, Italy, Switzerland & France",8,43.4,65,HAMD,26.79,4.14,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Doogan 1994,1,1,1,Placebo,90,-66.7,5.477264383793169,BF,UK,6,45.7,68,MADRS,27.59,3.4,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Doogan 1994,2,44,27,SSRIs,83,-71.19999999999999,5.477264383793169,BF,UK,6,45.7,68,MADRS,27.59,3.4,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Doongaji 1993,1,45,28,TCAs,63,-7.5,5.56,CFB,India,6,36,66,HAMD,25.7,6.83,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,0,0,1,0,0
+Doongaji 1993,2,49,28,TCAs,63,-7.4,3.97,CFB,India,6,36,66,HAMD,25.7,6.83,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,0,0,1,0,0
+Duan 2009,1,42,27,SSRIs,44,-12.400000000000002,4.856953777832356,BF,China,6,37.5,62,HAMD,24.04,3.97,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Duan 2009,2,94,49,Acupuncture + AD,46,-13.700000000000001,4.648655719667784,BF,China,6,37.5,62,HAMD,24.04,3.97,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Dube 2010,1,1,1,Placebo,122,-13,8.84,CFB,"India, US, Mexico & Romania",8,36.5,44,NR,NA,NA,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Dube 2010,2,41,27,SSRIs,54,-15,8.82,CFB,"India, US, Mexico & Romania",8,36.5,44,NR,NA,NA,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Dubey 2012,1,48,28,TCAs,30,-25.53,7.82,CFB,India,6,36.5,67,HAMD,35.1,5.15,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,1,1,2,0,1,1
+Dubey 2012,2,51,29,SNRIs,30,-20.27,7.04,CFB,India,6,36.5,67,HAMD,35.1,5.15,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,1,1,2,0,1,1
+Dunn 2005,1,60,33,Exercise individual,17,-10.100000000000001,3.1176914536239795,BF,US,12,35.9,75,HAMD,19.4,2.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Dunn 2005,2,60,33,Exercise individual,16,-9.100000000000001,4.794788837894741,BF,US,12,35.9,75,HAMD,19.4,2.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Dunn 2005,3,61,33,Exercise individual,16,-7.600000000000001,5.03189825016365,BF,US,12,35.9,75,HAMD,19.4,2.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Dunn 2005,4,61,33,Exercise individual,18,-6.399999999999999,4.334743360338648,BF,US,12,35.9,75,HAMD,19.4,2.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Dunn 2005,5,61,33,Exercise individual,13,-6.5,4.24381903478459,BF,US,12,35.9,75,HAMD,19.4,2.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+E-1569,1,6,6,Mirtazapine,72,-12.2,7.5,CFB,Europe,6,44.7,69,HAMD,25.16,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+E-1569,2,43,27,SSRIs,72,-15,6.6,CFB,Europe,6,44.7,69,HAMD,25.16,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Egede 2015,1,8,8,Behavioural therapies individual,121,-4.360804619407286,10.3,BIN,US,8,63.9,2,BDI,26.8,10,Unclear risk,Low risk,High risk,Unclear risk,Low risk,High risk,Unclear risk,1,0,2,1,0,1
+Egede 2015,2,8,8,Behavioural therapies individual,120,-3.5369532842482077,9.8,BIN,US,8,63.9,2,BDI,26.8,10,Unclear risk,Low risk,High risk,Unclear risk,Low risk,High risk,Unclear risk,1,0,2,1,0,1
+Eli Lilly HMAT-A,1,1,1,Placebo,89,-4.78,6.42,CFB,US,8,NA,NA,HAMD,17.74,5.26,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Eli Lilly HMAT-A,2,43,27,SSRIs,87,-7.4,6.44,CFB,US,8,NA,NA,HAMD,17.74,5.26,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Eli Lilly HMAT-A,3,51,29,SNRIs,81,-6.31,6.3,CFB,US,8,NA,NA,HAMD,17.74,5.26,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Elkin 1989/Imber 1990,1,1,1,Placebo,62,-6.300000000000001,6.791170738539858,BF,US,16,35,70,HAMD,19.5,4.4,Low risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,1,2,1,0,1
+Elkin 1989/Imber 1990,2,10,9,Cognitive and cognitive behavioural therapies individual,59,-8.900000000000002,6.84178339323893,BF,US,16,35,70,HAMD,19.5,4.4,Low risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,1,2,1,0,1
+Elkin 1989/Imber 1990,3,18,14,Interpersonal psychotherapy (IPT) individual,61,-9.8,6.872408602520662,BF,US,16,35,70,HAMD,19.5,4.4,Low risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,1,2,1,0,1
+Elkin 1989/Imber 1990,4,48,28,TCAs,57,-9.7,6.791170738539858,BF,US,16,35,70,HAMD,19.5,4.4,Low risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,1,2,1,0,1
+Emsley 2018,1,1,1,Placebo,106,-9.5,5.977457653551383,BF,"Bulgaria, Estonia, Finland, France, Republic of Korea, Malaysia, Mexico, Poland, Romania, & Slovakia",8,70.6,75,HAMD,26.65,3.35,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Emsley 2018,2,41,27,SSRIs,98,-13.6,5.71664237118258,BF,"Bulgaria, Estonia, Finland, France, Republic of Korea, Malaysia, Mexico, Poland, Romania, & Slovakia",8,70.6,75,HAMD,26.65,3.35,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+FDA 244 (EMD 68 843-009),1,1,1,Placebo,95,-9.3,7.8,CFB,US,8,NA,NA,HAMD,24.19,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+FDA 244 (EMD 68 843-009),2,42,27,SSRIs,89,-9.1,7.4,CFB,US,8,NA,NA,HAMD,24.19,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+FDA 245 (EMD 68 843-010),1,1,1,Placebo,99,-10.2,7.96,CFB,US,8,NA,NA,HAMD,23.45,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+FDA 245 (EMD 68 843-010),2,42,27,SSRIs,92,-11.1,7.67,CFB,US,8,NA,NA,HAMD,23.45,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Fabre 1992,1,1,1,Placebo,36,-3.06,8.1,CFB,US,6,35.5,62,HAMD,28.77,1.02,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Fabre 1992,2,43,27,SSRIs,38,-9.13,8.13702648391905,CFB,US,6,35.5,62,HAMD,28.77,1.02,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Fabre 1992,3,48,28,TCAs,37,-7.62,8.09007416529663,CFB,US,6,35.5,62,HAMD,28.77,1.02,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Fabre 1995a,1,1,1,Placebo,86,-7.6,7.5,CFB,US,6,37.6,53,HAMD,25.15,3.05,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Fabre 1995a,2,44,27,SSRIs,90,-10.6,8.6,CFB,US,6,37.6,53,HAMD,25.15,3.05,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Fabre 1995a,3,44,27,SSRIs,89,-9.8,8.9,CFB,US,6,37.6,53,HAMD,25.15,3.05,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Fabre 1995a,4,44,27,SSRIs,82,-9.2,8.2,CFB,US,6,37.6,53,HAMD,25.15,3.05,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Fagiolini 2020,1,7,7,Trazodone,165,-12.9,6.82,CFB,"Austria, Czech Republic, Italy, Romania, Slovakia, & Spain",8,47.8,75,HAMD,23.7,3.67,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,0,0,0,0,0,0
+Fagiolini 2020,2,52,29,SNRIs,152,-14.7,6.56,CFB,"Austria, Czech Republic, Italy, Romania, Slovakia, & Spain",8,47.8,75,HAMD,23.7,3.67,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,0,0,0,0,0,0
+Farabaugh 2015,1,11,9,Cognitive and cognitive behavioural therapies individual,15,-8.799999999999999,5.608538133952554,BF,US,12,47.2,50,HAMD,18.69,4.71,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,Unclear risk,1,1,2,0,1,1
+Farabaugh 2015,2,41,27,SSRIs,11,-5.449999999999999,8.026013954635264,BF,US,12,47.2,50,HAMD,18.69,4.71,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,Unclear risk,1,1,2,0,1,1
+Fava 1998a,1,1,1,Placebo,19,-11.6,8.9,CFB,US,12,41.3,51,HAMD,23.53,3.48,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 1998a,2,42,27,SSRIs,54,-10.8,9.5,CFB,US,12,41.3,51,HAMD,23.53,3.48,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 1998a,3,43,27,SSRIs,55,-11.1,9.4,CFB,US,12,41.3,51,HAMD,23.53,3.48,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 2002a,1,42,27,SSRIs,88,-11.48,7.62,CFB,US,4,42.9,60,HAMD,20.71,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 2002a,2,43,27,SSRIs,93,-12.32,7.63,CFB,US,4,42.9,60,HAMD,20.71,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 2002a,3,44,27,SSRIs,96,-12.93,8.19,CFB,US,4,42.9,60,HAMD,20.71,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Fava 2005,1,1,1,Placebo,43,-7.299999999999999,5.550675634551167,BF,US,12,37.2,59,HAMD,19.74,2.99,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Fava 2005,2,42,27,SSRIs,47,-6.300000000000001,6.345864795282043,BF,US,12,37.2,59,HAMD,19.74,2.99,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Fawcett 1989,1,42,27,SSRIs,19,-10.8,5.634713834792322,BF,US,6,42.2,65,HAMD,23.55,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Fawcett 1989,2,45,28,TCAs,19,-8.9,6.894200461257274,BF,US,6,42.2,65,HAMD,23.55,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Feighner 1982,1,1,1,Placebo,45,-7.611179915051261,3.96,BIN,US,6,NA,71,HAMD,27.09,4.11,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,1,1,0,1,2,1
+Feighner 1982,2,48,28,TCAs,48,-11.007446149065418,4.43,BIN,US,6,NA,71,HAMD,27.09,4.11,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,1,1,0,1,2,1
+Feighner 1982,3,49,28,TCAs,46,-11.895684252431842,4,BIN,US,6,NA,71,HAMD,27.09,4.11,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,1,1,0,1,2,1
+Finkel 1999,1,42,27,SSRIs,33,-11.354669310728429,5,BIN,US,12,74.4,53,HAMD,24.84,4.67,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Finkel 1999,2,44,27,SSRIs,42,-12.36275523905542,4.4,BIN,US,12,74.4,53,HAMD,24.84,4.67,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Fonagy 2019,1,10,9,Cognitive and cognitive behavioural therapies individual,20,-5.92,6.6314478057208595,BF,UK,26,37.9,66,HAMD,18.54,4.92,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Fonagy 2019,2,24,17,Self-help with support,54,-4.080000000000002,8.842188643090578,BF,UK,26,37.9,66,HAMD,18.54,4.92,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Fonagy 2019,3,28,18,Short-term psychodynamic psychotherapies individual,73,-8.149999999999999,6.942830834753213,BF,UK,26,37.9,66,HAMD,18.54,4.92,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Forest Laboratories 2000,1,1,1,Placebo,125,-11.2,10.35,CFB,US,8,42,52,MADRS,28.6,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Laboratories 2000,2,40,27,SSRIs,119,-13,9.79,CFB,US,8,42,52,MADRS,28.6,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Laboratories 2000,3,41,27,SSRIs,124,-12.9,10.03,CFB,US,8,42,52,MADRS,28.6,4.77,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Laboratories 2010,1,1,1,Placebo,215,-8.5,8.8,CFB,US,8,41.2,66,HAMD,29,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+Forest Laboratories 2010,2,41,27,SSRIs,319,-11.5,8.93,CFB,US,8,41.2,66,HAMD,29,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+Forest Laboratories 2010,3,41,27,SSRIs,318,-11.6,10.7,CFB,US,8,41.2,66,HAMD,29,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+Forest Research Institute 2003,1,1,1,Placebo,151,-10,10.57,CFB,US,8,39,61,HAMD,30.04,3.87,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2003,2,41,27,SSRIs,143,-13.3,10.62,CFB,US,8,39,61,HAMD,30.04,3.87,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2004a,1,41,27,SSRIs,96,-19.4,9.01,CFB,US,8,37,65,MADRS,30.3,4.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2004a,2,42,27,SSRIs,98,-19,10.39,CFB,US,8,37,65,MADRS,30.3,4.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2005,1,1,1,Placebo,132,-12.4,10.34,CFB,US,8,40,56,MADRS,30.4,4.61,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2005,2,41,27,SSRIs,131,-15.8,10.3,CFB,US,8,40,56,MADRS,30.4,4.61,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Forest Research Institute 2005,3,44,27,SSRIs,135,-16.7,10.46,CFB,US,8,40,56,MADRS,30.4,4.61,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Forlenza 2001,1,44,27,SSRIs,27,-15.85,11.89,CFB,Brazil,8,68.5,69,MADRS,29,5.03,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Forlenza 2001,2,48,28,TCAs,28,-15.03,10.46,CFB,Brazil,8,68.5,69,MADRS,29,5.03,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Freed 1999,1,43,27,SSRIs,149,-17.7,9.050928129203104,BF,Australia,9,48,65,MADRS,31.53,6.32,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Freed 1999,2,45,28,TCAs,157,-15.080000000000002,9.43473900009958,BF,Australia,9,48,65,MADRS,31.53,6.32,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Fu 2003,1,42,27,SSRIs,30,-20.900000000000002,6.199193495931548,BF,China,8,31.2,73,HAMD,30.58,4.9,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Fu 2003,2,59,32,Acupuncture,32,-23.9,6.392964883369843,BF,China,8,31.2,73,HAMD,30.58,4.9,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Fudge 1990,1,7,7,Trazodone,15,-17.1,4.439594576084623,BF,US,6,NA,NA,HAMD,23.39,2.86,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Fudge 1990,2,42,27,SSRIs,17,-14.799999999999999,7.977468270071652,BF,US,6,NA,NA,HAMD,23.39,2.86,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+GSK_29060/103,1,43,27,SSRIs,45,-17.8,10.73,CFB,UK,8,75.3,74,MADRS,31.23,5.82,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+GSK_29060/103,2,49,28,TCAs,36,-17.1,9.6,CFB,UK,8,75.3,74,MADRS,31.23,5.82,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+Gagiano 1993,1,42,27,SSRIs,45,-13.516735515678999,5,BIN,South Africa,6,38.7,80,HAMD,24.75,4.83,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Gagiano 1993,2,43,27,SSRIs,45,-14.524418306688649,4.7,BIN,South Africa,6,38.7,80,HAMD,24.75,4.83,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Gater 2010,1,32,21,Peer support group,39,-5,4.58257569495584,BF,UK,12,41.7,100,HAMD,19.13,5.93,High risk,Unclear risk,High risk,Low risk,Low risk,High risk,Unclear risk,2,1,2,0,0,1
+Gater 2010,2,53,30,Any AD,42,-1,6.950539547402058,BF,UK,12,41.7,100,HAMD,19.13,5.93,High risk,Unclear risk,High risk,Low risk,Low risk,High risk,Unclear risk,2,1,2,0,0,1
+Gater 2010,3,85,44,Peer support group + AD,42,-5.699999999999999,5.502726596879041,BF,UK,12,41.7,100,HAMD,19.13,5.93,High risk,Unclear risk,High risk,Low risk,Low risk,High risk,Unclear risk,2,1,2,0,0,1
+Gentil 2000,1,45,28,TCAs,59,-14.365887335044206,3.2,BIN,Brazil,8,38.5,81,HAMD,24.21,3.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Gentil 2000,2,52,29,SNRIs,57,-14.015070642716278,3,BIN,Brazil,8,38.5,81,HAMD,24.21,3.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Georgotas 1982,1,1,1,Placebo,18,-11.200000000000003,8.826618831693139,BF,US,4,38,33,HAMD,28.55,5.56,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Georgotas 1982,2,45,28,TCAs,15,-20,7.253805897596103,BF,US,4,38,33,HAMD,28.55,5.56,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Gerber 2020,1,60,33,Exercise individual,14,-10.5,11.4564392373896,BF,Switzerland,6,38.1,52,BDI,26.4,8.6,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,1,1,1,0
+Gerber 2020,2,61,33,Exercise individual,11,-10.899999999999999,8.214621111165139,BF,Switzerland,6,38.1,52,BDI,26.4,8.6,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,1,1,1,0
+Godlewska 2012,1,1,1,Placebo,21,-3.3000000000000007,4.403407771260799,BF,UK,1,31.6,55,HAMD,23.75,5.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Godlewska 2012,2,41,27,SSRIs,21,-4.399999999999999,6.990708118638626,BF,UK,1,31.6,55,HAMD,23.75,5.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Golden 2002_448,1,1,1,Placebo,101,-9.9,8.04,CFB,US,12,39,NA,HAMD,23.23,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Golden 2002_448,2,43,27,SSRIs,102,-12.7,8.08,CFB,US,12,39,NA,HAMD,23.23,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Golden 2002_448,3,43,27,SSRIs,104,-11.1,8.26,CFB,US,12,39,NA,HAMD,23.23,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Golden 2002_449,1,1,1,Placebo,110,-10.2,8.18,CFB,US,12,41.2,NA,HAMD,23.67,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Golden 2002_449,2,43,27,SSRIs,108,-13.3,8.21,CFB,US,12,41.2,NA,HAMD,23.67,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Golden 2002_449,3,43,27,SSRIs,110,-12.1,8.18,CFB,US,12,41.2,NA,HAMD,23.67,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Goldstein 2002,1,1,1,Placebo,70,-45.01,6.386706041854399,BF,US,8,41.4,64,HAMD,18.63,4.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Goldstein 2002,2,42,27,SSRIs,33,-43.55,5.9662081992515805,BF,US,8,41.4,64,HAMD,18.63,4.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Goldstein 2002,3,51,29,SNRIs,70,-46.53,5.796133226681948,BF,US,8,41.4,64,HAMD,18.63,4.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Goldstein 2004,1,1,1,Placebo,89,-6.14720239134599,5.08,BIN,US,8,40.3,63,HAMD,17.63,4.97,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Goldstein 2004,2,43,27,SSRIs,87,-7.630987473996317,5.19,BIN,US,8,40.3,63,HAMD,17.63,4.97,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Goldstein 2004,3,51,29,SNRIs,91,-8.994182731150115,4.66,BIN,US,8,40.3,63,HAMD,17.63,4.97,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Gual 2003,1,1,1,Placebo,39,-8.852950143030453,8,BIN,Spain,24,46.7,47,MADRS,22.56,7.39,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,0,0,1,0,0
+Gual 2003,2,44,27,SSRIs,44,-10.164945081501168,6.9,BIN,Spain,24,46.7,47,MADRS,22.56,7.39,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,0,0,1,0,0
+Guelfi 1995,1,1,1,Placebo,47,-4.8,11,CFB,France,4,56,85,HAMD,28.51,4.01,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,High risk,High risk,1,1,0,1,2,1
+Guelfi 1995,2,52,29,SNRIs,46,-14.2,9.6,CFB,France,4,56,85,HAMD,28.51,4.01,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,High risk,High risk,1,1,0,1,2,1
+Guelfi 2001,1,6,6,Mirtazapine,78,-89.30000000000001,6.575853903457053,BF,"France, Belgium, Denmark, & Netherlands",8,45.2,66,MADRS,34.35,5.49,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Guelfi 2001,2,52,29,SNRIs,79,-85.7,6.835320779985285,BF,"France, Belgium, Denmark, & Netherlands",8,45.2,66,MADRS,34.35,5.49,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Hamamci 2006,1,3,3,No treatment,11,-6.690000000000001,8.961004407989096,BF,Turkey,12,NA,NA,BDI,28.55,7.89,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Hamamci 2006,2,14,10,Cognitive and cognitive behavioural therapies group,10,-16.8,7.7338024283013596,BF,Turkey,12,NA,NA,BDI,28.55,7.89,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Hamdan-Mansour 2009,1,3,3,No treatment,36,-3.1000000000000014,8.815327560561775,BF,Jordan,10,NA,45,BDI,24.24,9.44,Low risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,0,0,2,1,0,1
+Hamdan-Mansour 2009,2,19,15,Psychoeducation group,44,-13.3,7.769813382572326,BF,Jordan,10,NA,45,BDI,24.24,9.44,Low risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,0,0,2,1,0,1
+Hao 2014,1,43,27,SSRIs,132,-12,7.1,CFB,China,6,38.5,59,HAMD,23.7,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hao 2014,2,51,29,SNRIs,127,-13.8,6.6,CFB,China,6,38.5,59,HAMD,23.7,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hashemi 2012,1,42,27,SSRIs,48,-16.96,4.96,CFB,Iran,26,34.8,53,BDI,32.98,6.33,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Hashemi 2012,2,50,28,TCAs,49,-13.14,4.68,CFB,Iran,26,34.8,53,BDI,32.98,6.33,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,0,1,1,0
+Hatcher 2018,1,3,3,No treatment,22,-7.1,7.5,CFB,New Zealand,12,42.6,54,PHQ-9,17.5,5.4,Unclear risk,Low risk,High risk,Unclear risk,Unclear risk,Low risk,Unclear risk,1,0,2,1,1,1
+Hatcher 2018,2,25,17,Self-help with support,22,-9.4,6.7,CFB,New Zealand,12,42.6,54,PHQ-9,17.5,5.4,Unclear risk,Low risk,High risk,Unclear risk,Unclear risk,Low risk,Unclear risk,1,0,2,1,1,1
+Heller 2009,1,42,27,SSRIs,14,-14.03,4.268172911211541,BF,US,26,31.9,55,HAMD,20.69,2.39,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Heller 2009,2,52,29,SNRIs,15,-15.07,3.1800471694614845,BF,US,26,31.9,55,HAMD,20.69,2.39,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Hemat-Far 2012,1,3,3,No treatment,10,-1,4.803123983409132,BF,Iran,8,NA,100,BDI,24.4,4.91,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Hemat-Far 2012,2,60,33,Exercise individual,10,-8.399999999999999,6.255397669213365,BF,Iran,8,NA,100,BDI,24.4,4.91,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Hermens 2007,1,3,3,No treatment,96,-56.9,10.513314520148212,BF,Netherlands,13,46,73,MADRS,23.91,10.53,Low risk,Low risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,0,2,1,0,1
+Hermens 2007,2,43,27,SSRIs,85,-57.599999999999994,10.278161045120235,BF,Netherlands,13,46,73,MADRS,23.91,10.53,Low risk,Low risk,High risk,Unclear risk,Low risk,High risk,Low risk,0,0,2,1,0,1
+Hersen 1984,1,36,24,Interpersonal psychotherapy (IPT) individual + placebo,22,-12.59,6.72995542332934,BF,US,12,NA,100,HAMD,23.08,5.99,Unclear risk,Unclear risk,High risk,Low risk,High risk,Unclear risk,Low risk,1,1,2,0,2,1
+Hersen 1984,2,45,28,TCAs,14,-17.29,7.384517587493446,BF,US,12,NA,100,HAMD,23.08,5.99,Unclear risk,Unclear risk,High risk,Low risk,High risk,Unclear risk,Low risk,1,1,2,0,2,1
+Hewett 2009,1,1,1,Placebo,197,-14.744105728311698,4.77,BIN,NR,8,42.2,70,MADRS,30.21,4.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hewett 2009,2,52,29,SNRIs,187,-16.68812021374118,4.65,BIN,NR,8,42.2,70,MADRS,30.21,4.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hewett 2010,1,1,1,Placebo,186,-13.2,10.64,CFB,NR,8,44.3,68,MADRS,30.35,5.16,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Hewett 2010,2,52,29,SNRIs,193,-17,10.56,CFB,NR,8,44.3,68,MADRS,30.35,5.16,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Hieronymus 2016_PZ/109,1,1,1,Placebo,103,-7.9,6.954135460285484,BF,US,8,NA,63,HAMD,21.75,3.4,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,High risk,1,1,1,1,0,0
+Hieronymus 2016_PZ/109,2,44,27,SSRIs,104,-8.7,6.7734776887504395,BF,US,8,NA,63,HAMD,21.75,3.4,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,High risk,1,1,1,1,0,0
+Hieronymus 2016_PZ/111,1,42,27,SSRIs,108,-10.999999999999998,6.161168720299744,BF,US,8,NA,69,HAMD,24.23,2.18,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,High risk,1,1,1,1,0,0
+Hieronymus 2016_PZ/111,2,44,27,SSRIs,106,-11.3,6.173329733620261,BF,US,8,NA,69,HAMD,24.23,2.18,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,High risk,High risk,1,1,1,1,0,0
+Higuchi 2009,1,1,1,Placebo,145,-8.3,5.8,CFB,Japan,6,38.4,NA,HAMD,20.4,NA,Low risk,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,0,0,0,1,0,0
+Higuchi 2009,2,43,27,SSRIs,148,-9.4,6.9,CFB,Japan,6,38.4,NA,HAMD,20.4,NA,Low risk,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,0,0,0,1,0,0
+Higuchi 2009,3,51,29,SNRIs,74,-10,6.4,CFB,Japan,6,38.4,NA,HAMD,20.4,NA,Low risk,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,0,0,0,1,0,0
+Higuchi 2011,1,1,1,Placebo,171,-10.4,8.11,CFB,Japan & Korea,8,36.4,55,HAMD,22.66,2.67,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Higuchi 2011,2,43,27,SSRIs,158,-12.8,7.67,CFB,Japan & Korea,8,36.4,55,HAMD,22.66,2.67,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Higuchi 2011,3,43,27,SSRIs,83,-12.5,7.11,CFB,Japan & Korea,8,36.4,55,HAMD,22.66,2.67,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Higuchi 2016,1,1,1,Placebo,182,-12.41,10.12,CFB,Japan,8,38.4,NA,MADRS,32.9,4.78,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Higuchi 2016,2,52,29,SNRIs,172,-15.3,10.1,CFB,Japan,8,38.4,NA,MADRS,32.9,4.78,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Higuchi 2016,3,52,29,SNRIs,176,-15.05,10.08,CFB,Japan,8,38.4,NA,MADRS,32.9,4.78,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Hojatifar 2017,1,3,3,No treatment,15,-3,4.5379841339519915,BF,Iran,8,NA,100,BDI-II,44.74,8.99,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Hojatifar 2017,2,31,20,Mindfulness or meditation group,15,-36.8,10.643927846429627,BF,Iran,8,NA,100,BDI-II,44.74,8.99,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Hollon 1992,1,10,9,Cognitive and cognitive behavioural therapies individual,25,-10.8,8.688498144098322,BF,US,12,32.6,80,HAMD,23.85,4.85,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,High risk,1,1,2,0,0,1
+Hollon 1992,2,48,28,TCAs,57,-9.600000000000001,8.660254037844387,BF,US,12,32.6,80,HAMD,23.85,4.85,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,High risk,1,1,2,0,0,1
+Hollon 1992,3,71,38,Cognitive and cognitive behavioural therapies individual + AD,25,-13.2,8.662563131083086,BF,US,12,32.6,80,HAMD,23.85,4.85,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,High risk,1,1,2,0,0,1
+Hong 2003,1,6,6,Mirtazapine,66,-11.937761277913982,5.1,BIN,Taiwan,6,47.2,63,HAMD,23.7,5.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hong 2003,2,42,27,SSRIs,66,-11.556236469528573,5.2,BIN,Taiwan,6,47.2,63,HAMD,23.7,5.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hopko 2003,1,68,37,Behavioural therapies individual + AD,10,-16,11.37673063757774,BF,US,2,30.5,36,BDI,36.3,11.24,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Hopko 2003,2,79,41,Counselling individual + AD,15,-6.900000000000002,15.516442891333051,BF,US,2,30.5,36,BDI,36.3,11.24,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Hoyberg 1996,1,6,6,Mirtazapine,56,-15.3,10.135580891098446,BF,Norway & UK,6,70.5,83,MADRS,31.46,6.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Hoyberg 1996,2,45,28,TCAs,59,-17.3,8.28673639015988,BF,Norway & UK,6,70.5,83,MADRS,31.46,6.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Hsu 2011,1,40,27,SSRIs,21,-25.8,8.674675786448736,BF,China,6,40.7,60,MADRS,37.400000000000006,5.21,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Low risk,1,1,0,1,0,0
+Hsu 2011,2,44,27,SSRIs,21,-21.500000000000004,9.814784765851975,BF,China,6,40.7,60,MADRS,37.400000000000006,5.21,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Low risk,1,1,0,1,0,0
+Hunter 2011,1,1,1,Placebo,11,-8.64,7.141897506965498,BF,US,8,40.4,65,HAMD,22,4.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Hunter 2011,2,42,27,SSRIs,12,-9.670000000000002,7.145984886633892,BF,US,8,40.4,65,HAMD,22,4.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Husain 2014,1,14,10,Cognitive and cognitive behavioural therapies group,33,-10.368159706717856,4.1,BIN,Pakistan,12,31.3,100,HAMD,20.5,3.94,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Husain 2014,2,42,27,SSRIs,33,-11.306892422740844,3.7,BIN,Pakistan,12,31.3,100,HAMD,20.5,3.94,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Hwang 2004,1,43,27,SSRIs,53,-21.405528119660467,5.9,BIN,Taiwan,4,65.1,58,HAMD,27.1,5.83,Unclear risk,Unclear risk,High risk,High risk,Low risk,High risk,Low risk,1,1,2,2,0,1
+Hwang 2004,2,52,29,SNRIs,52,-18.914039494975498,5.8,BIN,Taiwan,4,65.1,58,HAMD,27.1,5.83,Unclear risk,Unclear risk,High risk,High risk,Low risk,High risk,Low risk,1,1,2,2,0,1
+Jacobson 1996,1,8,8,Behavioural therapies individual,56,-20.200000000000003,7.336893075410054,BF,US,NA,38,75,BDI,29.44,6.58,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Jacobson 1996,2,10,9,Cognitive and cognitive behavioural therapies individual,43,-18.5,8.28673639015988,BF,US,NA,38,75,BDI,29.44,6.58,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Jacobson 1996,3,10,9,Cognitive and cognitive behavioural therapies individual,50,-19.700000000000003,8.448076704197234,BF,US,NA,38,75,BDI,29.44,6.58,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Jamison 1995,1,4,4,Waitlist,39,-0.6000000000000014,4.1581245772583575,BF,US,4,38,84,HAMD,19.8,4.16,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,2,1,2,1,0,1
+Jamison 1995,2,20,16,Self-help,33,-10.6,5.0408332644514235,BF,US,4,38,84,HAMD,19.8,4.16,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,2,1,2,1,0,1
+Janakiramaiah 2000,1,48,28,TCAs,15,-16.4,7.061869440877536,BF,India,4,39.7,37,HAMD,23.9,6.13,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Janakiramaiah 2000,2,65,35,Yoga group,15,-16.8,7.765951326141569,BF,India,4,39.7,37,HAMD,23.9,6.13,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Jefferson 2000,1,1,1,Placebo,101,-12.1,11.05,CFB,US,6,39.9,NA,MADRS,31.38,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Jefferson 2000,2,40,27,SSRIs,104,-15,10.2,CFB,US,6,39.9,NA,MADRS,31.38,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Jefferson 2000,3,40,27,SSRIs,95,-15.3,10.72,CFB,US,6,39.9,NA,MADRS,31.38,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Jefferson 2000,4,43,27,SSRIs,97,-13.8,10.83,CFB,US,6,39.9,NA,MADRS,31.38,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Jeong 2015,1,41,27,SSRIs,52,-19.5,6.44437739428721,BF,Korea,6,48.1,71,MADRS,30.8,5.8,Low risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,High risk,0,1,2,0,1,1
+Jeong 2015,2,41,27,SSRIs,49,-17.2,7.767238891652554,BF,Korea,6,48.1,71,MADRS,30.8,5.8,Low risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,High risk,0,1,2,0,1,1
+Jiahui 2006,1,42,27,SSRIs,30,-17.119999999999997,10.042673946713593,BF,China,4,NA,NA,HAMD,35.72,11.3,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Jiahui 2006,2,59,32,Acupuncture,30,-17.66,9.81803951917082,BF,China,4,NA,NA,HAMD,35.72,11.3,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Jordan 2014,1,11,9,Cognitive and cognitive behavioural therapies individual,25,-12.473021648423204,7.2,BIN,New Zealand,12,36,48,MADRS,23.61,7.44,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,0,2,1,0,1
+Jordan 2014,2,13,9,Cognitive and cognitive behavioural therapies individual,23,-15.239795644330377,7.7,BIN,New Zealand,12,36,48,MADRS,23.61,7.44,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,0,2,1,0,1
+Judd 2001,1,52,29,SNRIs,19,-19.700000000000003,11.35825690852254,BF,Australia,12,37.5,77,BDI,32.95,9.08,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Judd 2001,2,77,40,Interpersonal psychotherapy (IPT) individual + AD,12,-23.8,9.880789442144794,BF,Australia,12,37.5,77,BDI,32.95,9.08,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Kampman 1978,1,45,28,TCAs,25,-13.299999999999999,5.894913061275798,BF,Finland,9,45,64,HAMD,26.44,5.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Kampman 1978,2,47,28,TCAs,28,-16.700000000000003,7.276475795328396,BF,Finland,9,45,64,HAMD,26.44,5.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Kang 2009,1,6,6,Mirtazapine,73,-12,10.9,CFB,Korea,8,46.8,77,HAMD,25.96,4.96,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,2,1,0,1
+Kang 2009,2,52,29,SNRIs,53,-10.9,6,CFB,Korea,8,46.8,77,HAMD,25.96,4.96,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,2,1,0,1
+Kanter 2015,1,8,8,Behavioural therapies individual,21,-10.05,7.957832619501368,BF,US,12,38.1,79,HAMD,20.93,4.5,Low risk,Unclear risk,High risk,Low risk,High risk,High risk,Low risk,0,1,2,0,2,1
+Kanter 2015,2,33,22,Any psychotherapy,22,-7.99,8.408156754009761,BF,US,12,38.1,79,HAMD,20.93,4.5,Low risk,Unclear risk,High risk,Low risk,High risk,High risk,Low risk,0,1,2,0,2,1
+Kasper 2005a,1,1,1,Placebo,180,-14.007323334662487,4.2,BIN,"Belgium, Czech Republic, France, Greece, Hungary, Italy, Netherlands, Slovakia, Spain, Sweden, UK",8,75,76,MADRS,28.6,4.2,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Kasper 2005a,2,41,27,SSRIs,174,-13.605929383433079,3.8,BIN,"Belgium, Czech Republic, France, Greece, Hungary, Italy, Netherlands, Slovakia, Spain, Sweden, UK",8,75,76,MADRS,28.6,4.2,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Kasper 2005a,3,42,27,SSRIs,164,-13.008578374547865,3.8,BIN,"Belgium, Czech Republic, France, Greece, Hungary, Italy, Netherlands, Slovakia, Spain, Sweden, UK",8,75,76,MADRS,28.6,4.2,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Kasper 2005b,1,7,7,Trazodone,55,-14.6,4.89,CFB,"Austria, Czech Republic, Hungary, Poland & Slovak Republic",6,43.9,63,HAMD,20.95,1.54,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Kasper 2005b,2,43,27,SSRIs,53,-15,4.95,CFB,"Austria, Czech Republic, Hungary, Poland & Slovak Republic",6,43.9,63,HAMD,20.95,1.54,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Kasper 2012,1,1,1,Placebo,71,-13.4,9.27,CFB,Russia & Austria,8,41.9,71,MADRS,35.16,4.27,Low risk,Low risk,Low risk,High risk,Unclear risk,Low risk,High risk,0,0,0,2,1,1
+Kasper 2012,2,41,27,SSRIs,139,-19,10.61,CFB,Russia & Austria,8,41.9,71,MADRS,35.16,4.27,Low risk,Low risk,Low risk,High risk,Unclear risk,Low risk,High risk,0,0,0,2,1,1
+Katona 2012,1,1,1,Placebo,145,-10.3,9.63,CFB,"Canada, Finland, France, Germany, Sweden, Ukraine & US",8,70.6,64,HAMD,28.95,5.01,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Katona 2012,2,51,29,SNRIs,147,-15.8,9.7,CFB,"Canada, Finland, France, Germany, Sweden, Ukraine & US",8,70.6,64,HAMD,28.95,5.01,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Katz 1990,1,1,1,Placebo,11,-2.5,5.0921508225896055,BF,US,7,84.1,93,HAMD,22.66,3.44,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Katz 1990,2,50,28,TCAs,12,-8.6,5.8642987645583,BF,US,7,84.1,93,HAMD,22.66,3.44,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Katz 1993_Protocol 01,1,1,1,Placebo,104,-8,7.76,CFB,Switzerland,4,43.6,49,HAMD,22.86,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Katz 1993_Protocol 01,2,45,28,TCAs,93,-13.7,7.76,CFB,Switzerland,4,43.6,49,HAMD,22.86,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Katz 1993_Protocol 03,1,1,1,Placebo,94,-8.7,7.76,CFB,Switzerland,4,43.6,57,HAMD,24.4,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Katz 1993_Protocol 03,2,45,28,TCAs,95,-12.9,7.76,CFB,Switzerland,4,43.6,57,HAMD,24.4,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Kay-Lambkin 2009,1,3,3,No treatment,21,-9.91,10.053273098846962,BF,Australia,15,35.4,54,BDI-II,31.93,9.55,Low risk,Low risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,0,0,2,1,1,1
+Kay-Lambkin 2009,2,11,9,Cognitive and cognitive behavioural therapies individual,23,-21.869999999999997,10.129318831984705,BF,Australia,15,35.4,54,BDI-II,31.93,9.55,Low risk,Low risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,0,0,2,1,1,1
+Kay-Lambkin 2009,3,21,16,Self-help,23,-11.48,11.186022528137515,BF,Australia,15,35.4,54,BDI-II,31.93,9.55,Low risk,Low risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,0,0,2,1,1,1
+Kay-Lambkin 2011/2017,1,11,9,Cognitive and cognitive behavioural therapies individual,88,-11.899999999999999,10.474731500138798,BF,Australia,12,40,43,BDI-II,31.73,9.18,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,Low risk,1,1,2,0,1,1
+Kay-Lambkin 2011/2017,2,17,13,Counselling individual,89,-8.3,10.371113729971338,BF,Australia,12,40,43,BDI-II,31.73,9.18,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,Low risk,1,1,2,0,1,1
+Kay-Lambkin 2011/2017,3,21,16,Self-help,97,-12.899999999999999,11.396051947933547,BF,Australia,12,40,43,BDI-II,31.73,9.18,Unclear risk,Unclear risk,High risk,Low risk,Unclear risk,High risk,Low risk,1,1,2,0,1,1
+Keller 2006_Study 062,1,1,1,Placebo,154,-14,8.87,CFB,Cross-continental,8,41,67,HAMD,28.3,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Keller 2006_Study 062,2,43,27,SSRIs,161,-17.25,8.05,CFB,Cross-continental,8,41,67,HAMD,28.3,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Kennedy 2005,1,41,27,SSRIs,96,-15.7,7.84,CFB,US,8,37.1,NA,HAMD,26.2,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Kennedy 2005,2,42,27,SSRIs,98,-16.4,8.91,CFB,US,8,37.1,NA,HAMD,26.2,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Kennedy 2007,1,10,9,Cognitive and cognitive behavioural therapies individual,12,-11.5,6.593936608733815,BF,Canada,16,35.6,63,HAMD,21.900000000000002,7.07,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,2,1,1,1
+Kennedy 2007,2,52,29,SNRIs,12,-14.09,8.057915363169311,BF,Canada,16,35.6,63,HAMD,21.900000000000002,7.07,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,2,1,1,1
+Khan 1991,1,1,1,Placebo,26,-4,8.228608630868283,BF,US,6,40.6,56,HAMD,25.56,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Khan 1991,2,52,29,SNRIs,23,-9.599999999999998,6.946221994724902,BF,US,6,40.6,56,HAMD,25.56,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Khan 1991,3,52,29,SNRIs,22,-8.5,8.506468127254696,BF,US,6,40.6,56,HAMD,25.56,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Khan 1991,4,52,29,SNRIs,22,-9.1,8.057294831393474,BF,US,6,40.6,56,HAMD,25.56,3.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Khan 1995,1,1,1,Placebo,26,-6.3,8.1,CFB,UK,5,41.8,67,HAMD,22.25,3.45,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Khan 1995,2,6,6,Mirtazapine,26,-12,7.8,CFB,UK,5,41.8,67,HAMD,22.25,3.45,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Khan 2007,1,41,27,SSRIs,110,-19.2,8.6,CFB,US,8,42.4,61,MADRS,31.3,3.84,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Khan 2007,2,51,29,SNRIs,91,-19.3,9.1,CFB,US,8,42.4,61,MADRS,31.3,3.84,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Kheirabadi 2020,1,13,9,Cognitive and cognitive behavioural therapies individual,16,-24.200000000000003,17.38016110397139,BF,Iran,NA,NA,89,BDI-II,40.800000000000004,17.43,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Kheirabadi 2020,2,40,27,SSRIs,12,-18,11.95317531035164,BF,Iran,NA,NA,89,BDI-II,40.800000000000004,17.43,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Khoshnab 2017,1,3,3,No treatment,15,-1.56,3.09838667696593,CFB,Iran,8,51.2,100,BDI,29.31,5.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Khoshnab 2017,2,44,27,SSRIs,15,-1.92,6.19677335393187,CFB,Iran,8,51.2,100,BDI,29.31,5.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Khoshnab 2017,3,60,33,Exercise individual,15,-2.13,6.19677335393187,CFB,Iran,8,51.2,100,BDI,29.31,5.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Khoshnab 2017,4,88,46,Exercise individual + AD,15,-4.53,12.548466041712,CFB,Iran,8,51.2,100,BDI,29.31,5.4,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,2,1,1,1
+Kim 2011,1,6,6,Mirtazapine,30,-12.438014998554605,2.9,BIN,Korea,8,43.2,72,HAMD,22.95,2.88,Unclear risk,Unclear risk,High risk,Low risk,Low risk,High risk,High risk,1,1,2,0,0,1
+Kim 2011,2,43,27,SSRIs,30,-12.749109167956826,2.9,BIN,Korea,8,43.2,72,HAMD,22.95,2.88,Unclear risk,Unclear risk,High risk,Low risk,Low risk,High risk,High risk,1,1,2,0,0,1
+Kinoshita 2009,1,1,1,Placebo,70,-10.4,7.5,CFB,Japan,6,39.7,NA,HAMD,22.57,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Kinoshita 2009,2,6,6,Mirtazapine,65,-13.3,6.8,CFB,Japan,6,39.7,NA,HAMD,22.57,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Kinoshita 2009,3,6,6,Mirtazapine,66,-13.8,6.9,CFB,Japan,6,39.7,NA,HAMD,22.57,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Kinoshita 2009,4,6,6,Mirtazapine,69,-11.9,7.6,CFB,Japan,6,39.7,NA,HAMD,22.57,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Komulainen 2018,1,1,1,Placebo,15,-2.1999999999999993,4.567001204291499,BF,Finland,1,NA,44,MADRS,23.23,4.1,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,2,1,0,1,1,1
+Komulainen 2018,2,41,27,SSRIs,17,-1.9000000000000021,4.272247651997716,BF,Finland,1,NA,44,MADRS,23.23,4.1,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,2,1,0,1,1,1
+Kramer 2014,1,4,4,Waitlist,132,-4.490000000000002,8.682419017762273,BF,Netherlands,9,19.5,79,CES-D,39.6,7.9,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Kramer 2014,2,15,11,Problem solving individual,131,-10.3,9.793855216409929,BF,Netherlands,9,19.5,79,CES-D,39.6,7.9,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Kranzler 2006_Group A,1,1,1,Placebo,100,-9.6,7.8,CFB,US,10,42.9,35,HAMD,20.62,3.49,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Kranzler 2006_Group A,2,44,27,SSRIs,89,-10.8,6.5,CFB,US,10,42.9,35,HAMD,20.62,3.49,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Krejtz 2018,1,2,2,Attention placebo,25,-8.189999999999998,9.971835337589566,BF,Poland,2,35.1,67,CES-D,38.47,7.4,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,1,1,1,0
+Krejtz 2018,2,22,16,Self-help,26,-12.969999999999999,9.223887466789694,BF,Poland,2,35.1,67,CES-D,38.47,7.4,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,1,1,1,0
+Krogh 2012,1,60,33,Exercise individual,56,-7.899999999999999,5.884725991921799,BF,Denmark,12,41.6,67,HAMD,18.89,4.35,High risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,2,0,2,0,0,1
+Krogh 2012,2,61,33,Exercise individual,59,-8.100000000000001,5.6000000000000005,BF,Denmark,12,41.6,67,HAMD,18.89,4.35,High risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,2,0,2,0,0,1
+Lam 2013,1,41,27,SSRIs,51,-14.3,8.3,CFB,Canada,12,43.3,55,MADRS,27.63,5,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Lam 2013,2,73,38,Cognitive and cognitive behavioural therapies individual + AD,48,-15.7,8.8,CFB,Canada,12,43.3,55,MADRS,27.63,5,Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk,0,0,2,0,0,1
+Lam 2016,1,1,1,Placebo,30,-6.5,9.6,CFB,Canada,8,36.8,62,MADRS,26.6,4.8,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,Unclear risk,0,0,1,0,0,0
+Lam 2016,2,42,27,SSRIs,31,-8.8,9.9,CFB,Canada,8,36.8,62,MADRS,26.6,4.8,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,Unclear risk,0,0,1,0,0,0
+Lam 2016,3,66,36,Light therapy,32,-13.4,7.5,CFB,Canada,8,36.8,62,MADRS,26.6,4.8,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,Unclear risk,0,0,1,0,0,0
+Lam 2016,4,98,50,Light therapy + AD,29,-16.9,9.2,CFB,Canada,8,36.8,62,MADRS,26.6,4.8,Low risk,Low risk,Unclear risk,Low risk,Low risk,High risk,Unclear risk,0,0,1,0,0,0
+Lee 2007,1,43,27,SSRIs,240,-55.92,5.818424825538554,BF,"China, Korea, Taiwan & Brazil",8,38.5,70,HAMD,21.15,4.08,High risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,1,0,1,0,1
+Lee 2007,2,51,29,SNRIs,238,-56.39,5.863369624884997,BF,"China, Korea, Taiwan & Brazil",8,38.5,70,HAMD,21.15,4.08,High risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,1,0,1,0,1
+Legrand 2016,1,53,30,Any AD,10,-6.41,10,CFB,France,1.4,45.3,71,BDI-II,36.52,6.8,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,1,2,1,0,1
+Legrand 2016,2,87,46,Exercise individual + AD,14,-17.22,6.49,CFB,France,1.4,45.3,71,BDI-II,36.52,6.8,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,1,2,1,0,1
+Legrand 2016,3,89,46,Exercise individual + AD,11,-9.39,9.02,CFB,France,1.4,45.3,71,BDI-II,36.52,6.8,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,1,2,1,0,1
+Leinonen 1999,1,6,6,Mirtazapine,136,-20.5,6.324778621170934,BF,"Denmark, Finland, Norway & Sweden",8,41.6,62,MADRS,29.35,4.7,High risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,0,0,1,0,1
+Leinonen 1999,2,40,27,SSRIs,133,-20.200000000000003,6.083134085890865,BF,"Denmark, Finland, Norway & Sweden",8,41.6,62,MADRS,29.35,4.7,High risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,0,0,1,0,1
+Levin 2013,1,1,1,Placebo,52,-11.65,5.796133226681948,BF,US,12,35.1,26,HAMD,16.8,3.87,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,High risk,0,0,0,0,0,0
+Levin 2013,2,52,29,SNRIs,51,-9.690000000000001,5.632946712496982,BF,US,12,35.1,26,HAMD,16.8,3.87,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,High risk,0,0,0,0,0,0
+Li 2006,1,40,27,SSRIs,28,-12.1,7.7,CFB,China,6,35.5,54,HAMD,23.75,NA,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,0,1,1,0
+Li 2006,2,41,27,SSRIs,28,-15.1,7.8,CFB,China,6,35.5,54,HAMD,23.75,NA,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,0,1,1,0
+Lindegaard 2019,1,4,4,Waitlist,25,-2.4800000000000004,5.6385193091803805,BF,Sweden,8,33.9,46,PHQ-9,18.3,4.99,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,1,1,2,1,0,1
+Lindegaard 2019,2,25,17,Self-help with support,25,-11.370000000000001,5.135328616554155,BF,Sweden,8,33.9,46,PHQ-9,18.3,4.99,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,1,1,2,1,0,1
+Loo 2002,1,1,1,Placebo,139,-12.059999999999999,7.796787800113582,BF,"Belgium, France & UK",8,NA,NA,HAMD,27.35,3.25,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Loo 2002,2,43,27,SSRIs,147,-14.21,7.291015018500509,BF,"Belgium, France & UK",8,NA,NA,HAMD,27.35,3.25,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Luo 1985,1,45,28,TCAs,20,-15.2,7.502666192761078,BF,China,5,37.3,55,HAMD,28.88,6.13,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Luo 1985,2,57,32,Acupuncture,27,-15.7,9.132907532653551,BF,China,5,37.3,55,HAMD,28.88,6.13,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+M/2020/0046 (Study 046),1,1,1,Placebo,247,-11.5,8.45,CFB,US,8,39.4,69,HAMD,22.9,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+M/2020/0046 (Study 046),2,43,27,SSRIs,243,-12.5,8.45,CFB,US,8,39.4,69,HAMD,22.9,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+M/2020/0046 (Study 047),1,1,1,Placebo,239,-10.1,7.27,CFB,US,8,38.5,77,HAMD,23.8,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+M/2020/0046 (Study 047),2,43,27,SSRIs,242,-11.8,7.64,CFB,US,8,38.5,77,HAMD,23.8,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MDF/29060/III/070/88/MC,1,43,27,SSRIs,24,-20,8.59,CFB,Europe,5,73,NA,MADRS,30.03,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+MDF/29060/III/070/88/MC,2,47,28,TCAs,20,-15,8.22,CFB,Europe,5,73,NA,MADRS,30.03,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Low risk,High risk,1,1,0,1,1,0
+MIR 003-003 (FDA),1,1,1,Placebo,45,-8.8,8.1,CFB,US,6,43,57,HAMD,25.45,NA,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,Low risk,High risk,1,1,1,1,0,0
+MIR 003-003 (FDA),2,6,6,Mirtazapine,45,-10.4,8.7,CFB,US,6,43,57,HAMD,25.45,NA,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Low risk,Low risk,High risk,1,1,1,1,0,0
+MIR 003-020 (FDA),1,1,1,Placebo,39,-4.8,6.4,CFB,US,6,44,51,HAMD,28.83,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MIR 003-020 (FDA),2,6,6,Mirtazapine,40,-10.6,8.7,CFB,US,6,44,51,HAMD,28.83,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MIR 003-020 (FDA),3,45,28,TCAs,40,-11.5,9.1,CFB,US,6,44,51,HAMD,28.83,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MIR 003-021 (FDA),1,1,1,Placebo,48,-9.5,8.9,CFB,US,6,45.7,55,HAMD,24.61,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MIR 003-021 (FDA),2,6,6,Mirtazapine,45,-11.7,7.6,CFB,US,6,45.7,55,HAMD,24.61,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MIR 003-021 (FDA),3,45,28,TCAs,48,-13.6,7.2,CFB,US,6,45.7,55,HAMD,24.61,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MY-1042/BRL-029060/CPMS-251,1,1,1,Placebo,123,-8.25,7.56,CFB,US,8,41.9,NA,HAMD,24.41,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MY-1042/BRL-029060/CPMS-251,2,43,27,SSRIs,120,-10.23,7.67,CFB,US,8,41.9,NA,HAMD,24.41,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MY-1045/BRL-029060/1 (PAR 128),1,1,1,Placebo,136,-9,8.63,CFB,US,12,41.8,NA,HAMD,25.62,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MY-1045/BRL-029060/1 (PAR 128),2,42,27,SSRIs,344,-13,8.72,CFB,US,12,41.8,NA,HAMD,25.62,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+MY-1045/BRL-029060/1 (PAR 128),3,43,27,SSRIs,350,-11.8,8.79,CFB,US,12,41.8,NA,HAMD,25.62,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Macias-Cortes 2015,1,1,1,Placebo,43,-5.699999999999999,3.4394767043839685,BF,Mexico,6,49,100,HAMD,20.65,2.98,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,Low risk,0,0,0,0,0,0
+Macias-Cortes 2015,2,42,27,SSRIs,46,-8.900000000000002,3.371943060017473,BF,Mexico,6,49,100,HAMD,20.65,2.98,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,Low risk,0,0,0,0,0,0
+Mahableshwarkar 2013,1,1,1,Placebo,149,-10.5,9.28,CFB,US,8,42.7,60,HAMD,29.1,5.63,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Mahableshwarkar 2013,2,51,29,SNRIs,149,-13.47,9.15,CFB,US,8,42.7,60,HAMD,29.1,5.63,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Mahableshwarkar 2015a,1,1,1,Placebo,161,-14.442386644210568,4.18,BIN,US,8,42.9,75,MADRS,32.23,4.33,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,0,0,0,1,1,0
+Mahableshwarkar 2015a,2,51,29,SNRIs,152,-16.73979185632994,4.39,BIN,US,8,42.9,75,MADRS,32.23,4.33,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,0,0,0,1,1,0
+Maina 2007,1,80,41,Counselling individual + AD,17,-10.06,3.466000432775507,BF,Italy,26,35.9,66,HAMD,20.2,2.72,Low risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,1,2,0,1,1
+Maina 2007,2,83,42,Short-term psychodynamic psychotherapies individual + AD,18,-10.840000000000002,3.9046988360179586,BF,Italy,26,35.9,66,HAMD,20.2,2.72,Low risk,Unclear risk,High risk,Low risk,Unclear risk,Unclear risk,Unclear risk,0,1,2,0,1,1
+Mao 2008,1,41,27,SSRIs,118,-20.9,8.1,CFB,China,8,38.9,56,MADRS,30.64,5.27,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Mao 2008,2,42,27,SSRIs,113,-20.3,10.1,CFB,China,8,38.9,56,MADRS,30.64,5.27,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Marchesi 1998,1,42,27,SSRIs,67,-16.6,6.023288138550238,BF,Italy,10,43.6,74,HAMD,25.39,5.45,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Marchesi 1998,2,45,28,TCAs,75,-17.200000000000003,6.385138996137829,BF,Italy,10,43.6,74,HAMD,25.39,5.45,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Markkula 2019,1,3,3,No treatment,134,-3.8999999999999986,7.462010452954351,BF,Nepal,4,31.5,91,BDI,23.44,8.86,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,1,0,2,1,0,1
+Markkula 2019,2,17,13,Counselling individual,124,-14.4,7.846553383492653,BF,Nepal,4,31.5,91,BDI,23.44,8.86,Unclear risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Low risk,1,0,2,1,0,1
+Marshall 2008,1,10,9,Cognitive and cognitive behavioural therapies individual,37,-11.48,4.328128925990998,BF,Canada,16,NA,69,HAMD,18.27,3.73,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Marshall 2008,2,18,14,Interpersonal psychotherapy (IPT) individual,35,-10.17,5.655758127784462,BF,Canada,16,NA,69,HAMD,18.27,3.73,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Marshall 2008,3,53,30,Any AD,30,-13.830000000000002,4.6982124260190705,BF,Canada,16,NA,69,HAMD,18.27,3.73,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Mathews 2015,1,1,1,Placebo,281,-13.6,10.06,CFB,US,10,42.3,57,MADRS,31.3,3.35,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Mathews 2015,2,40,27,SSRIs,280,-15.9,10.04,CFB,US,10,42.3,57,MADRS,31.3,3.35,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Matreja 2007,1,40,27,SSRIs,50,-19.2,5.857362887853202,BF,India,6,40.1,55,MADRS,29.65,5.58,Low risk,Unclear risk,High risk,High risk,Unclear risk,Unclear risk,Unclear risk,0,1,2,2,1,1
+Matreja 2007,2,44,27,SSRIs,50,-15.100000000000001,5.507050027010832,BF,India,6,40.1,55,MADRS,29.65,5.58,Low risk,Unclear risk,High risk,High risk,Unclear risk,Unclear risk,Unclear risk,0,1,2,2,1,1
+McCallum 1975,1,1,1,Placebo,12,-5.5,6.965629906907199,BF,US,3,41.5,83,HAMD,22.599999999999998,5.29,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+McCallum 1975,2,45,28,TCAs,12,-12.599999999999998,7.108445681019164,BF,US,3,41.5,83,HAMD,22.599999999999998,5.29,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+McKnight 1992,1,11,9,Cognitive and cognitive behavioural therapies individual,22,-17.96,8.775710797422622,BF,US,8,37.5,100,BDI,29.97,5.53,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+McKnight 1992,2,46,28,TCAs,21,-16.64,6.157540093251526,BF,US,8,37.5,100,BDI,29.97,5.53,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+McNamara 1986,1,9,8,Behavioural therapies individual,10,-20.4,3.8226692245079223,BF,US,10,NA,NA,BDI,24.27,4.69,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+McNamara 1986,2,11,9,Cognitive and cognitive behavioural therapies individual,10,-18.3,4.828426244647422,BF,US,10,NA,NA,BDI,24.27,4.69,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+McNamara 1986,3,11,9,Cognitive and cognitive behavioural therapies individual,10,-17.31,3.9657155722517468,BF,US,10,NA,NA,BDI,24.27,4.69,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Mehtonen 2000,1,44,27,SSRIs,72,-13.687319730745797,4.5,BIN,Finland,8,42.6,66,HAMD,25.65,4.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Mehtonen 2000,2,52,29,SNRIs,75,-14.130174362352879,3.5,BIN,Finland,8,42.6,66,HAMD,25.65,4.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Mendels 1993,1,1,1,Placebo,75,-10.53,8.98,CFB,US,6,38.5,65,MADRS,29.32,5.65,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Mendels 1993,2,52,29,SNRIs,77,-14.8,9.64,CFB,US,6,38.5,65,MADRS,29.32,5.65,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Mendels 1999,1,1,1,Placebo,91,-55.150000000000006,5.528284931931139,BF,US,4,43,33,HAMD,24,3.35,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Mendels 1999,2,40,27,SSRIs,89,-57.23,5.3779682848257595,BF,US,4,43,33,HAMD,24,3.35,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Miller 1989a,1,1,1,Placebo,22,-6.2,7.2,CFB,UK,4,42.5,68,HAMD,23.5,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Miller 1989a,2,43,27,SSRIs,19,-6,5.9,CFB,UK,4,42.5,68,HAMD,23.5,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Miranda 2003/2006,1,5,5,TAU,89,-4.1,4.534412861661364,BF,US,13,29.3,100,HAMD,16.9,5.2,High risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,2,0,2,0,0,1
+Miranda 2003/2006,2,14,10,Cognitive and cognitive behavioural therapies group,90,-4.9,4.536794022214366,BF,US,13,29.3,100,HAMD,16.9,5.2,High risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,2,0,2,0,0,1
+Miranda 2003/2006,3,53,30,Any AD,88,-8.1,4.452089397125803,BF,US,13,29.3,100,HAMD,16.9,5.2,High risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,2,0,2,0,0,1
+Miura 2000,1,43,27,SSRIs,102,-9.2,11.5,CFB,Japan,6,46.5,NA,HAMD,23.85,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Miura 2000,2,45,28,TCAs,114,-10.6,11.1,CFB,Japan,6,46.5,NA,HAMD,23.85,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Moak 2003,1,35,23,Cognitive and cognitive behavioural therapies individual + placebo,44,-10,5.5072679252057455,BF,US,12,41.5,39,HAMD,19.08,2.5,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Moak 2003,2,74,38,Cognitive and cognitive behavioural therapies individual + AD,38,-11.599999999999998,6.128621378417825,BF,US,12,41.5,39,HAMD,19.08,2.5,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Mohr 2011,1,3,3,No treatment,44,-2.2300000000000004,4.997119170081898,BF,US,20,55.9,9,HAMD,20,3.9,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Low risk,Low risk,1,1,2,0,0,1
+Mohr 2011,2,10,9,Cognitive and cognitive behavioural therapies individual,41,-5.399999999999999,4.921595269828677,BF,US,20,55.9,9,HAMD,20,3.9,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Low risk,Low risk,1,1,2,0,0,1
+Moises 1981,1,7,7,Trazodone,16,-9,8.4338603260903,BF,Germany,4,48.7,86,HAMD,25.08,5.15,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Moises 1981,2,45,28,TCAs,20,-14.2,5.866003750424986,BF,Germany,4,48.7,86,HAMD,25.08,5.15,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Moller 1993,1,43,27,SSRIs,81,-18.7,7.53193202306022,BF,Germany & Hungary,6,47.1,NA,HAMD,29.96,6.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Moller 1993,2,45,28,TCAs,74,-20.4,6.350590523722971,BF,Germany & Hungary,6,47.1,NA,HAMD,29.96,6.38,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Moller 1998,1,44,27,SSRIs,62,-13.6,9.3,CFB,"Germany, Hungary, & Czech Republic",6,48.6,70,HAMD,28.69,5.16,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Moller 1998,2,45,28,TCAs,59,-16.5,9.4,CFB,"Germany, Hungary, & Czech Republic",6,48.6,70,HAMD,28.69,5.16,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Moller 2000,1,44,27,SSRIs,100,-13.8,7.2,CFB,Germany,6,47.9,67,HAMD,24.85,3.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Moller 2000,2,45,28,TCAs,105,-15.3,7.1,CFB,Germany,6,47.9,67,HAMD,24.85,3.74,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Montgomery 1992,1,1,1,Placebo,64,-10.56,7.76,CFB,UK,6,44,69,HAMD,23.69,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Montgomery 1992,2,40,27,SSRIs,68,-11.51,7.76,CFB,UK,6,44,69,HAMD,23.69,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Montgomery 1992,3,40,27,SSRIs,61,-13.31,9.82,CFB,UK,6,44,69,HAMD,23.69,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Montgomery 2004,1,41,27,SSRIs,146,-75.56,6.386706041854399,BF,"Denmark, Finland, France, Germany, Ireland, Spain, & Switzerland",8,48,71,MADRS,28.85,5.19,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Montgomery 2004,2,52,29,SNRIs,142,-76.93,6.639971794448689,BF,"Denmark, Finland, France, Germany, Ireland, Spain, & Switzerland",8,48,71,MADRS,28.85,5.19,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Moore 2005,1,40,27,SSRIs,142,-91.7,6.024330470286226,BF,France,8,45.2,67,MADRS,36,4.6,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Moore 2005,2,41,27,SSRIs,138,-95,6.263439989485686,BF,France,8,45.2,67,MADRS,36,4.6,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Moradveisi 2013,1,8,8,Behavioural therapies individual,50,-59.55,6.5503525790564865,BF,Iran,12,31.4,85,HAMD,21.37,5.32,Low risk,Low risk,High risk,Low risk,High risk,High risk,Low risk,0,0,2,0,2,1
+Moradveisi 2013,2,44,27,SSRIs,50,-57.46000000000001,6.6528569087094755,BF,Iran,12,31.4,85,HAMD,21.37,5.32,Low risk,Low risk,High risk,Low risk,High risk,High risk,Low risk,0,0,2,0,2,1
+Mowla 2016,1,44,27,SSRIs,28,-9.969999999999999,3.5679125549822546,BF,Iran,6,41.2,60,HAMD,27.68,4,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,0,1,0,1,0,0
+Mowla 2016,2,51,29,SNRIs,26,-9.3,3.477067730142742,BF,Iran,6,41.2,60,HAMD,27.68,4,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,0,1,0,1,0,0
+Mullin 1996,1,6,6,Mirtazapine,71,-12.3,7.7,CFB,UK,5,44.8,74,HAMD,22.55,3.94,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Mullin 1996,2,45,28,TCAs,71,-13,7.3,CFB,UK,5,44.8,74,HAMD,22.55,3.94,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Mulsant 1999,1,43,27,SSRIs,29,-11.299999999999999,4.222558466143482,BF,US,6,75,74,HAMD,22.44,4.01,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Low risk,0,1,0,1,1,0
+Mulsant 1999,2,50,28,TCAs,27,-13.599999999999998,3.536947836765479,BF,US,6,75,74,HAMD,22.44,4.01,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Low risk,0,1,0,1,1,0
+Mundt 2012,1,1,1,Placebo,50,-10.7,6.6,CFB,US,4,37.8,63,HAMD,24.76,2.65,Unclear risk,Unclear risk,Low risk,High risk,Unclear risk,High risk,High risk,1,1,0,2,1,1
+Mundt 2012,2,44,27,SSRIs,55,-13.4,5.7,CFB,US,4,37.8,63,HAMD,24.76,2.65,Unclear risk,Unclear risk,Low risk,High risk,Unclear risk,High risk,High risk,1,1,0,2,1,1
+Munizza 2006,1,7,7,Trazodone,62,-12.9,9.06,CFB,"Hungary, Italy, Poland, Portugal, Spain, & Slovak Republic",6,45.9,65,HAMD,21.8,1.71,High risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,0,0,1,0,1
+Munizza 2006,2,44,27,SSRIs,59,-11.5,8.3,CFB,"Hungary, Italy, Poland, Portugal, Spain, & Slovak Republic",6,45.9,65,HAMD,21.8,1.71,High risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,0,0,1,0,1
+Murphy 1984,1,10,9,Cognitive and cognitive behavioural therapies individual,19,-12.049999999999999,5.3401123583685015,BF,US,12,33.8,74,HAMD,19.860000000000003,3.97,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Murphy 1984,2,34,23,Cognitive and cognitive behavioural therapies individual + placebo,17,-15.590000000000002,5.020239038133543,BF,US,12,33.8,74,HAMD,19.860000000000003,3.97,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Murphy 1984,3,50,28,TCAs,16,-12.690000000000001,4.387949407183269,BF,US,12,33.8,74,HAMD,19.860000000000003,3.97,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Murphy 1984,4,72,38,Cognitive and cognitive behavioural therapies individual + AD,18,-13.34,5.63521073252811,BF,US,12,33.8,74,HAMD,19.860000000000003,3.97,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Murri 2015,1,44,27,SSRIs,42,-8.7,5.1293274412928644,BF,Italy,24,75.2,71,HAMD,20.1,3.06,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,1,1,2,0,0,1
+Murri 2015,2,90,47,Exercise group + AD,42,-12.700000000000001,3.671511950137164,BF,Italy,24,75.2,71,HAMD,20.1,3.06,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,1,1,2,0,0,1
+Murri 2015,3,91,47,Exercise group + AD,37,-11.600000000000001,4.011234224026317,BF,Italy,24,75.2,71,HAMD,20.1,3.06,Unclear risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,1,1,2,0,0,1
+Mynors-Wallis 1995,1,1,1,Placebo,26,-6.599999999999998,6.322183167229498,BF,UK,12,37.1,77,HAMD,18.99,4.46,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,1,0,2,0,0,1
+Mynors-Wallis 1995,2,15,11,Problem solving individual,29,-12.299999999999999,6.005830500438719,BF,UK,12,37.1,77,HAMD,18.99,4.46,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,1,0,2,0,0,1
+Mynors-Wallis 1995,3,45,28,TCAs,27,-11.000000000000002,6.274551776820396,BF,UK,12,37.1,77,HAMD,18.99,4.46,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,1,0,2,0,0,1
+NCT01020799,1,1,1,Placebo,94,-11.45,10.18,CFB,US,4,39.9,48,MADRS,31.2,4.13,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+NCT01020799,2,41,27,SSRIs,49,-11.7,10.99,CFB,US,4,39.9,48,MADRS,31.2,4.13,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+NKD20006 (NCT00048204),1,1,1,Placebo,118,-10.9,7.8,CFB,US,8,38,60,HAMD,24.6,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+NKD20006 (NCT00048204),2,43,27,SSRIs,117,-11.1,7.9,CFB,US,8,38,60,HAMD,24.6,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Naeem 2014,1,4,4,Waitlist,89,-2.9000000000000004,3.4597687784012385,BF,Pakistan,12,33.4,44,HADS-D,13.15,3.07,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Naeem 2014,2,20,16,Self-help,94,-6.8,3.504283093587046,BF,Pakistan,12,33.4,44,HADS-D,13.15,3.07,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Naeem 2015,1,3,3,No treatment,68,-7.5,3.758989225842501,BF,Pakistan,12,31.7,60,HADS-D,15.2,3.68,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Naeem 2015,2,11,9,Cognitive and cognitive behavioural therapies individual,69,-10.9,3.616628264005025,BF,Pakistan,12,31.7,60,HADS-D,15.2,3.68,Low risk,Low risk,High risk,Unclear risk,Low risk,Low risk,Unclear risk,0,0,2,1,0,1
+Navarro 2001,1,40,27,SSRIs,29,-71.83,5.863369624884997,BF,Spain,12,70.7,64,HAMD,26.759999999999998,4.1,Unclear risk,Unclear risk,High risk,Low risk,Low risk,High risk,Low risk,1,1,2,0,0,1
+Navarro 2001,2,50,28,TCAs,29,-73.53,5.840837420778737,BF,Spain,12,70.7,64,HAMD,26.759999999999998,4.1,Unclear risk,Unclear risk,High risk,Low risk,Low risk,High risk,Low risk,1,1,2,0,0,1
+Nemeroff 2007,1,1,1,Placebo,102,-10.691268245194767,3.3,BIN,US,6,39.5,63,HAMD,23.63,3.22,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Nemeroff 2007,2,42,27,SSRIs,104,-11.307523684578351,3.2,BIN,US,6,39.5,63,HAMD,23.63,3.22,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Nemeroff 2007,3,52,29,SNRIs,102,-11.75,3.2,BIN,US,6,39.5,63,HAMD,23.63,3.22,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Nezu 1989,1,4,4,Waitlist,11,-2.539999999999999,6.732852293047873,BF,US,10,45.8,86,BDI,26.98,4.75,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,2,1,0,1
+Nezu 1989,2,16,12,Problem solving group,14,-19.43,3.138040790047191,BF,US,10,45.8,86,BDI,26.98,4.75,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,2,1,0,1
+Nezu 1989,3,16,12,Problem solving group,14,-14.71,5.800801668735106,BF,US,10,45.8,86,BDI,26.98,4.75,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,2,1,0,1
+Nierenberg 2007,1,1,1,Placebo,137,-5.97,6.79,CFB,US,8,42.3,65,HAMD,17.7,5,High risk,Low risk,Low risk,High risk,Low risk,High risk,High risk,2,0,0,2,0,1
+Nierenberg 2007,2,41,27,SSRIs,274,-7.22,6.62,CFB,US,8,42.3,65,HAMD,17.7,5,High risk,Low risk,Low risk,High risk,Low risk,High risk,High risk,2,0,0,2,0,1
+Nierenberg 2007,3,51,29,SNRIs,273,-7.61,6.94,CFB,US,8,42.3,65,HAMD,17.7,5,High risk,Low risk,Low risk,High risk,Low risk,High risk,High risk,2,0,0,2,0,1
+Noguera 1991,1,42,27,SSRIs,60,-18.09,4.743616763609809,BF,NR,6,46.2,73,HAMD,24.45,5.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Noguera 1991,2,47,28,TCAs,60,-17.94,5.043599904829882,BF,NR,6,46.2,73,HAMD,24.45,5.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Nyth 1992,1,1,1,Placebo,45,-6.699999999999999,8.450443775329198,BF,"Denmark, Norway & Sweden",6,76.7,69,MADRS,25.52,9.5,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Nyth 1992,2,40,27,SSRIs,88,-13.1,10,BF,"Denmark, Norway & Sweden",6,76.7,69,MADRS,25.52,9.5,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,1,1,0,1,1,0
+Olie 1997,1,1,1,Placebo,129,-66.6,6.704598545464366,BF,France,6,43.8,63,MADRS,28.65,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Olie 1997,2,44,27,SSRIs,129,-70.1,6.1425994783919995,BF,France,6,43.8,63,MADRS,28.65,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Ontiveros 1997,1,42,27,SSRIs,52,-15.7,9.5,CFB,Mexico,6,40.9,73,HAMD,26.3,5.69,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Ontiveros 1997,2,43,27,SSRIs,58,-16.4,8.4,CFB,Mexico,6,40.9,73,HAMD,26.3,5.69,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Ou 2011,1,40,27,SSRIs,117,-13.8,7.5,CFB,China,6,36.6,56,HAMD,22.95,4.2,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Ou 2011,2,41,27,SSRIs,115,-14.7,8.2,CFB,China,6,36.6,56,HAMD,22.95,4.2,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Owens 2008,1,43,27,SSRIs,40,-16.7,8.59,CFB,US,8,NA,64,MADRS,28.600000000000005,5.5,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Owens 2008,2,52,29,SNRIs,41,-17.3,8.99,CFB,US,8,NA,64,MADRS,28.600000000000005,5.5,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Ozdemir 2015,1,52,29,SNRIs,25,-21.880000000000003,6.2150543038657355,BF,Turkey,8,35.8,54,HAMD,29.58,6.5,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,1,2,1,0,1
+Ozdemir 2015,2,99,50,Light therapy + AD,25,-24.16,5.344221178057659,BF,Turkey,8,35.8,54,HAMD,29.58,6.5,Low risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,0,1,2,1,0,1
+PAR 01 001 (GSK & FDA),1,1,1,Placebo,21,-11.33,7.93,CFB,US,6,43.1,35,HAMD,27.7,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+PAR 01 001 (GSK & FDA),2,43,27,SSRIs,22,-13.36,7.93,CFB,US,6,43.1,35,HAMD,27.7,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Paslakis 2010,1,6,6,Mirtazapine,37,-13.1,4.422668877499197,BF,Germany,4,51.7,69,HAMD,22.41,4.05,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Paslakis 2010,2,52,29,SNRIs,33,-13.899999999999999,6.471475874945375,BF,Germany,4,51.7,69,HAMD,22.41,4.05,Unclear risk,Unclear risk,High risk,High risk,Unclear risk,High risk,Low risk,1,1,2,2,1,1
+Perahia 2006,1,1,1,Placebo,99,-51.3,5.632946712496982,BF,"Bulgaria, Croatia, Hungary, Poland, Romania, Russia, & Slovakia",8,45.2,70,HAMD,21.08,3.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Perahia 2006,2,43,27,SSRIs,97,-52.1,5.477264383793169,BF,"Bulgaria, Croatia, Hungary, Poland, Romania, Russia, & Slovakia",8,45.2,70,HAMD,21.08,3.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Perahia 2006,3,51,29,SNRIs,93,-53.7,5.2825033865051685,BF,"Bulgaria, Croatia, Hungary, Poland, Romania, Russia, & Slovakia",8,45.2,70,HAMD,21.08,3.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Perahia 2006,4,51,29,SNRIs,103,-54.4,6.024330470286226,BF,"Bulgaria, Croatia, Hungary, Poland, Romania, Russia, & Slovakia",8,45.2,70,HAMD,21.08,3.68,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Perahia 2008a_study 1,1,51,29,SNRIs,159,-11.32,6.56,CFB,France,6,44,71,HAMD,23.1,NA,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Perahia 2008a_study 1,2,52,29,SNRIs,164,-12.03,6.53,CFB,France,6,44,71,HAMD,23.1,NA,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Perahia 2008a_study 2,1,51,29,SNRIs,159,-10.76,7.06,CFB,Canada,6,42,66,HAMD,22.32,NA,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Perahia 2008a_study 2,2,52,29,SNRIs,166,-10.73,7.09,CFB,Canada,6,42,66,HAMD,22.32,NA,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Perahia 2008a_study 2,3,52,29,SNRIs,166,-11.02,6.96,CFB,Canada,6,42,66,HAMD,22.32,NA,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Perahia 2008b,1,51,29,SNRIs,481,-12.42,8.77,CFB,11 European countries,12,46.2,64,HAMD,21.65,4.1,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,2,1,0,1
+Perahia 2008b,2,51,29,SNRIs,477,-12.59,8.74,CFB,11 European countries,12,46.2,64,HAMD,21.65,4.1,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,2,1,0,1
+Philipp 1999,1,1,1,Placebo,46,-12.1,7.4,CFB,Germany,8,46.5,75,HAMD,22.35,4.13,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Philipp 1999,2,48,28,TCAs,105,-14.2,7.3,CFB,Germany,8,46.5,75,HAMD,22.35,4.13,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Preskorn 1991,1,42,27,SSRIs,29,-10.1,7.8,CFB,US,6,NA,NA,HAMD,23.65,2.74,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Preskorn 1991,2,45,28,TCAs,31,-7.9,6.1,CFB,US,6,NA,NA,HAMD,23.65,2.74,Unclear risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,1,1,0,1,2,1
+Qu 2013,1,43,27,SSRIs,43,-11.3,4.6,CFB,China,6,33.3,59,HAMD,24.52,5.2,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Qu 2013,2,95,49,Acupuncture + AD,49,-15.7,5.1,CFB,China,6,33.3,59,HAMD,24.52,5.2,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Qu 2013,3,97,49,Acupuncture + AD,51,-14.1,6.8,CFB,China,6,33.3,59,HAMD,24.52,5.2,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Quah-Smith 2005,1,54,31,Sham acupuncture,12,-6.8,7.71,CFB,Australia,8,38.5,77,BDI,22,5.1,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,0,1,0,0
+Quah-Smith 2005,2,58,32,Acupuncture,14,-16.1,4.07,CFB,Australia,8,38.5,77,BDI,22,5.1,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,0,0,1,0,0
+Quah-Smith 2013,1,54,31,Sham acupuncture,22,-6.91,4.327112200995025,BF,Australia,8,38.3,72,HAMD,20.03,4.2,Low risk,Low risk,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,0,0,0,0,0,0
+Quah-Smith 2013,2,58,32,Acupuncture,25,-11.74,5.67733211993098,BF,Australia,8,38.3,72,HAMD,20.03,4.2,Low risk,Low risk,Low risk,Low risk,Low risk,Unclear risk,Unclear risk,0,0,0,0,0,0
+Quilty 2014,1,10,9,Cognitive and cognitive behavioural therapies individual,54,-8.77,5.757681825179296,BF,Canada,16,33.61,53,HAMD,16.67,5.16,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,2,1,1,1
+Quilty 2014,2,53,30,Any AD,50,-8.230000000000002,5.741855100923394,BF,Canada,16,33.61,53,HAMD,16.67,5.16,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Low risk,0,1,2,1,1,1
+Rapaport 2009,1,1,1,Placebo,178,-8.85,8,CFB,US,10,67.5,62,HAMD,22.91,3.96,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,0,1,0,1,0,0
+Rapaport 2009,2,43,27,SSRIs,173,-12.11,8.02,CFB,US,10,67.5,62,HAMD,22.91,3.96,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,0,1,0,1,0,0
+Raskin 2007,1,1,1,Placebo,104,-41.519999999999996,6.083134085890865,BF,US,8,72.8,59,HAMD,18.83,4.69,High risk,Unclear risk,Low risk,High risk,Low risk,High risk,High risk,2,1,0,2,0,1
+Raskin 2007,2,51,29,SNRIs,207,-44.09,6.263439989485686,BF,US,8,72.8,59,HAMD,18.83,4.69,High risk,Unclear risk,Low risk,High risk,Low risk,High risk,High risk,2,1,0,2,0,1
+Ratti 2011_study 096,1,1,1,Placebo,123,-12.64562814441003,5.9,BIN,11 countries in Europe and Latin America,8,44,72,HAMD,22.64,5.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Ratti 2011_study 096,2,43,27,SSRIs,113,-12.443256646465764,5.5,BIN,11 countries in Europe and Latin America,8,44,72,HAMD,22.64,5.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Reimherr 1990,1,1,1,Placebo,141,-8.16,7.85,CFB,US & Canada,8,38.9,54,HAMD,23.3,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Reimherr 1990,2,44,27,SSRIs,142,-11.66,8.24,CFB,US & Canada,8,38.9,54,HAMD,23.3,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Reimherr 1990,3,45,28,TCAs,144,-12.64,7.97,CFB,US & Canada,8,38.9,54,HAMD,23.3,3.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Richou 1995,1,6,6,Mirtazapine,87,-14.923795553010649,5.7,BIN,France,6,50.7,67,HAMD,27.2,5.56,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Richou 1995,2,47,28,TCAs,87,-14.52611125160795,5.4,BIN,France,6,50.7,67,HAMD,27.2,5.56,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Rickels 1992,1,1,1,Placebo,56,-7.922306549028652,5.46,BIN,US,6,44.7,48,HAMD,26.35,5.58,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Rickels 1992,2,43,27,SSRIs,55,-11.953388041094584,5.71,BIN,US,6,44.7,48,HAMD,26.35,5.58,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Rickels 1994,1,1,1,Placebo,95,-10.529390148691395,2.14,BIN,US,8,NA,NA,HAMD,23.89,2.11,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Rickels 1994,2,48,28,TCAs,92,-11.304224785635755,2.01,BIN,US,8,NA,NA,HAMD,23.89,2.11,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Rickhi 2011,1,4,4,Waitlist,45,-2.3000000000000007,4.876709956517817,BF,Canada,8,44.1,77,HAMD,20.35,1.6,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Rickhi 2011,2,23,16,Self-help,39,-8.499999999999998,4.521183473383933,BF,Canada,8,44.1,77,HAMD,20.35,1.6,Low risk,Low risk,High risk,Low risk,Low risk,Low risk,Unclear risk,0,0,2,0,0,1
+Robinson 2014,1,1,1,Placebo,95,-7.15,7.51,CFB,"France, Mexico, Puerto Rico, & US",12,72.9,63,HAMD,19.39,5.62,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,0,0,0,0,0,0
+Robinson 2014,2,51,29,SNRIs,201,-7.42,7.37,CFB,"France, Mexico, Puerto Rico, & US",12,72.9,63,HAMD,19.39,5.62,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,0,0,0,0,0,0
+Rohini 2000,1,65,35,Yoga group,15,-21.699999999999996,6.226556030423239,BF,India,4,31.9,53,BDI,31.95,7.29,High risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,2,1,1,1,1,1
+Rohini 2000,2,65,35,Yoga group,15,-15.500000000000002,7.750483855863451,BF,India,4,31.9,53,BDI,31.95,7.29,High risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,2,1,1,1,1,1
+Roose 2004,1,1,1,Placebo,90,-10.885842719387849,3.9,BIN,US,8,79.6,58,HAMD,24.3,4.1,High risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,1,0,1,0,1
+Roose 2004,2,40,27,SSRIs,84,-10.89718407335831,4.3,BIN,US,8,79.6,58,HAMD,24.3,4.1,High risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,2,1,0,1,0,1
+Ropert 1989,1,42,27,SSRIs,54,-18.200000000000003,6.7201190465645775,BF,France,6,43.8,64,MADRS,27.97,5.78,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Ropert 1989,2,47,28,TCAs,46,-16.599999999999998,7,BF,France,6,43.8,64,MADRS,27.97,5.78,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,1,1,0,1,1,0
+Roy 2018,1,3,3,No treatment,20,-2.700000000000001,3.7473724127713806,BF,India,2,32,100,HAMD,17.93,4.65,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Roy 2018,2,64,34,Exercise group,20,-4.300000000000001,4.88076838213001,BF,India,2,32,100,HAMD,17.93,4.65,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Rush 1977/Kovacs 1981,1,10,9,Cognitive and cognitive behavioural therapies individual,19,-22.950000000000003,7.252833928886004,BF,US,12,35.7,63,BDI,30.15,6.31,Unclear risk,Unclear risk,High risk,Unclear risk,High risk,High risk,Low risk,1,1,2,1,2,1
+Rush 1977/Kovacs 1981,2,48,28,TCAs,22,-12.64,10.799597214711298,BF,US,12,35.7,63,BDI,30.15,6.31,Unclear risk,Unclear risk,High risk,Unclear risk,High risk,High risk,Low risk,1,1,2,1,2,1
+SER 315 (FDA),1,1,1,Placebo,73,-7.8,8,CFB,Europe,8,42.6,72,HAMD,22.93,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+SER 315 (FDA),2,44,27,SSRIs,76,-8.9,4.52,CFB,Europe,8,42.6,72,HAMD,22.93,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+SER 315 (FDA),3,45,28,TCAs,70,-11.6,11.49,CFB,Europe,8,42.6,72,HAMD,22.93,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Sahranavard 2018,1,4,4,Waitlist,10,-4.400000000000002,3.66382313983631,BF,Iran,NA,34.1,100,BDI,33.3,2.56,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Sahranavard 2018,2,12,9,Cognitive and cognitive behavioural therapies individual,10,-17.7,2.4529370150902774,BF,Iran,NA,34.1,100,BDI,33.3,2.56,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Sahranavard 2018,3,14,10,Cognitive and cognitive behavioural therapies group,10,-16.299999999999997,2.6261568879257764,BF,Iran,NA,34.1,100,BDI,33.3,2.56,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,Low risk,1,1,2,1,1,1
+Salminen 2008,1,29,18,Short-term psychodynamic psychotherapies individual,26,-11,6.44,CFB,Finland,16,42.4,68,HAMD,18.59,3.23,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,1,1,2,1,0,1
+Salminen 2008,2,42,27,SSRIs,25,-11.2,4.6,CFB,Finland,16,42.4,68,HAMD,18.59,3.23,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Low risk,Low risk,1,1,2,1,0,1
+Saloheimo 2016,1,53,30,Any AD,34,-11.1,6.4,CFB,Finland,12,41.7,72,HAMD,18.96,3.82,High risk,Low risk,High risk,Low risk,Unclear risk,High risk,Low risk,2,0,2,0,1,1
+Saloheimo 2016,2,78,40,Interpersonal psychotherapy (IPT) individual + AD,38,-9.1,6.4,CFB,Finland,12,41.7,72,HAMD,18.96,3.82,High risk,Low risk,High risk,Low risk,Unclear risk,High risk,Low risk,2,0,2,0,1,1
+Saloheimo 2016,3,84,43,Psychoeducation group + AD,27,-8.3,6.3,CFB,Finland,12,41.7,72,HAMD,18.96,3.82,High risk,Low risk,High risk,Low risk,Unclear risk,High risk,Low risk,2,0,2,0,1,1
+Samuelian 1998,1,47,28,TCAs,46,-16.3,11.176855550645719,BF,France,6,47,64,MADRS,33.47,6.98,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Samuelian 1998,2,52,29,SNRIs,52,-15.2,11.143271512441936,BF,France,6,47,64,MADRS,33.47,6.98,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Sauer 2003,1,45,28,TCAs,75,-10.37,6.49,CFB,Germany,6,47.3,68,HAMD,23.62,1.77,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Sauer 2003,2,52,29,SNRIs,76,-10.5,5.8,CFB,Germany,6,47.3,68,HAMD,23.62,1.77,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Schatzberg 2002,1,6,6,Mirtazapine,128,-12.28759062288586,3.5,BIN,US,8,71.9,52,HAMD,22.3,3.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schatzberg 2002,2,43,27,SSRIs,126,-11.618768395639448,3.5,BIN,US,8,71.9,52,HAMD,22.3,3.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schmidt 1983,1,4,4,Waitlist,10,-4.300000000000001,8.248636250920512,BF,US,8,42,84,BDI,24.62,6.89,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Schmidt 1983,2,14,10,Cognitive and cognitive behavioural therapies group,11,-14.899999999999999,8.107404023483719,BF,US,8,42,84,BDI,24.62,6.89,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Schmidt 1983,3,14,10,Cognitive and cognitive behavioural therapies group,11,-9.5,6.780117993073572,BF,US,8,42,84,BDI,24.62,6.89,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Schmidt 1983,4,20,16,Self-help,12,-15.3,7.158212067269313,BF,US,8,42,84,BDI,24.62,6.89,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Schmidt 1983,5,24,17,Self-help with support,12,-16.4,7.1393276994406145,BF,US,8,42,84,BDI,24.62,6.89,Unclear risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,2,1,0,1
+Schweizer 1991,1,1,1,Placebo,16,-68.2,5.2825033865051685,BF,US,6,45.7,37,MADRS,31,4.44,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schweizer 1991,2,52,29,SNRIs,15,-73.5,6.704598545464366,BF,US,6,45.7,37,MADRS,31,4.44,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schweizer 1991,3,52,29,SNRIs,15,-82.3,5.796133226681948,BF,US,6,45.7,37,MADRS,31,4.44,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schweizer 1991,4,52,29,SNRIs,14,-85.4,6.44920529031322,BF,US,6,45.7,37,MADRS,31,4.44,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schweizer 1994,1,1,1,Placebo,78,-10.2,9.6,CFB,US,6,42,67,MADRS,30.09,5.65,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Schweizer 1994,2,48,28,TCAs,71,-13.1,8.9,CFB,US,6,42,67,MADRS,30.09,5.65,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Schweizer 1994,3,52,29,SNRIs,64,-15.6,9.8,CFB,US,6,42,67,MADRS,30.09,5.65,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Schweizer 1998,1,1,1,Placebo,60,-56.300000000000004,5.908787379126166,BF,US,8,NA,NA,HAMD,24,4.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Schweizer 1998,2,48,28,TCAs,60,-60.6,5.796133226681948,BF,US,8,NA,NA,HAMD,24,4.09,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Scott 1992,1,5,5,TAU,29,-11.299999999999999,6.701492371106602,BF,UK,16,30.3,73,HAMD,18.75,5.77,High risk,Low risk,High risk,High risk,Low risk,Unclear risk,Low risk,2,0,2,2,0,1
+Scott 1992,2,11,9,Cognitive and cognitive behavioural therapies individual,29,-11.600000000000001,5.781868210189506,BF,UK,16,30.3,73,HAMD,18.75,5.77,High risk,Low risk,High risk,High risk,Low risk,Unclear risk,Low risk,2,0,2,2,0,1
+Scott 1992,3,45,28,TCAs,26,-10.2,7.7272245987806,BF,UK,16,30.3,73,HAMD,18.75,5.77,High risk,Low risk,High risk,High risk,Low risk,Unclear risk,Low risk,2,0,2,2,0,1
+Sechter 1999,1,42,27,SSRIs,118,-64.4,5.686539710966275,BF,France,24,43,66,HAMD,24.7,3.27,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Sechter 1999,2,44,27,SSRIs,116,-64.6,5.236273449345547,BF,France,24,43,66,HAMD,24.7,3.27,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Serrano-Blanco 2006,1,42,27,SSRIs,49,-12.7,8.685044617041411,BF,Spain,24,43.5,73,MADRS,22.43,9.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Serrano-Blanco 2006,2,48,28,TCAs,45,-12.899999999999999,8.742997197757758,BF,Spain,24,43.5,73,MADRS,22.43,9.3,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Sharma 2005,1,53,30,Any AD,15,-7.9399999999999995,4.127129753230446,BF,India,8,31.8,37,HAMD,20.369999999999997,4.2,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Sharma 2005,2,92,48,Yoga group + AD,15,-13,4.36003440353399,BF,India,8,31.8,37,HAMD,20.369999999999997,4.2,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Sheehan 2009a,1,1,1,Placebo,204,-9.3,7.9,CFB,US & Canada,8,43.9,64,HAMD,22.8,4.31,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,0,0,0,0,0,0
+Sheehan 2009a,2,7,7,Trazodone,202,-11.4,8.2,CFB,US & Canada,8,43.9,64,HAMD,22.8,4.31,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk,0,0,0,0,0,0
+Sheehan 2009b,1,1,1,Placebo,95,-11.020000000000003,8.01588423070094,BF,US,6,39.8,61,HAMD,29.6,3.87,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Sheehan 2009b,2,42,27,SSRIs,99,-11.420000000000002,7.712399107930036,BF,US,6,39.8,61,HAMD,29.6,3.87,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Sheehan 2009b,3,52,29,SNRIs,95,-14.3,8.54921633835523,BF,US,6,39.8,61,HAMD,29.6,3.87,High risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,2,1,0,1,0,1
+Shelton 2006,1,44,27,SSRIs,82,-11.3,5.550675634551167,BF,US,8,39.3,53,HAMD,22.3,2.9,High risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,2,1,0,2,0,1
+Shelton 2006,2,52,29,SNRIs,78,-12.7,5.550675634551167,BF,US,8,39.3,53,HAMD,22.3,2.9,High risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,2,1,0,2,0,1
+Silverstone 1994,1,1,1,Placebo,69,-10.6,4.34,CFB,UK,6,NA,NA,HAMD,24.89,5.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Silverstone 1994,2,48,28,TCAs,66,-11.8,4.25,CFB,UK,6,NA,NA,HAMD,24.89,5.01,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,1,1,0,1,0,0
+Singh 2005,1,5,5,TAU,19,-5.299999999999999,5.273518749374084,BF,Australia,8,69.3,55,HAMD,19.07,4.55,High risk,Low risk,High risk,Low risk,Low risk,Unclear risk,Unclear risk,2,0,2,0,0,1
+Singh 2005,2,63,34,Exercise group,18,-9.5,5.07444578254611,BF,Australia,8,69.3,55,HAMD,19.07,4.55,High risk,Low risk,High risk,Low risk,Low risk,Unclear risk,Unclear risk,2,0,2,0,0,1
+Singh 2005,3,64,34,Exercise group,17,-7.1,5.8642987645583,BF,Australia,8,69.3,55,HAMD,19.07,4.55,High risk,Low risk,High risk,Low risk,Low risk,Unclear risk,Unclear risk,2,0,2,0,0,1
+Sir 2005,1,44,27,SSRIs,79,-15.9,8.44,CFB,Australia & Turkey,8,37,69,HAMD,23.45,4.39,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Sir 2005,2,52,29,SNRIs,79,-14.3,8.35,CFB,Australia & Turkey,8,37,69,HAMD,23.45,4.39,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Smeraldi 1998b,1,7,7,Trazodone,57,-10.100000000000001,11.007724560507498,BF,Italy,6,71.3,75,MADRS,31.27,4.94,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Smeraldi 1998b,2,47,28,TCAs,58,-15.9,10.47329938462565,BF,Italy,6,71.3,75,MADRS,31.27,4.94,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Smeraldi 1998b,3,52,29,SNRIs,55,-15.099999999999998,9.267685795278128,BF,Italy,6,71.3,75,MADRS,31.27,4.94,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Sneed 2014,1,44,27,SSRIs,58,-11.68,6.461772301877377,BF,US,12,64.6,58,HAMD,22.99,5.17,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Sneed 2014,2,50,28,TCAs,52,-13.360000000000001,7.163265645716629,BF,US,12,64.6,58,HAMD,22.99,5.17,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Solati 2016,1,53,30,Any AD,20,-5.559999999999995,4.2123152778489885,BF,Iran,8,NA,100,BDI-II,42.05,4.36,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,1,1,1,0
+Solati 2016,2,76,39,Cognitive and cognitive behavioural therapies group + AD,20,-8.720000000000006,3.474607891546901,BF,Iran,8,NA,100,BDI-II,42.05,4.36,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,1,1,1,0
+Spring 1992,1,1,1,Placebo,15,-11.7,9,CFB,US,4,34.9,68,HAMD,24.96,3.85,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Spring 1992,2,45,28,TCAs,10,-16.7,6,CFB,US,4,34.9,68,HAMD,24.96,3.85,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Sramek 1995,1,1,1,Placebo,70,-6.4,6.7,CFB,US,9,NA,NA,HAMD,27.85,4.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Sramek 1995,2,42,27,SSRIs,72,-8.6,6.3,CFB,US,9,NA,NA,HAMD,27.85,4.1,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Staner 1995,1,43,27,SSRIs,21,-8.2,9.787236586493657,BF,Belgium,5,42.1,83,HAMD,25.05,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Staner 1995,2,45,28,TCAs,19,-13.3,6.841783393238929,BF,Belgium,5,42.1,83,HAMD,25.05,5.07,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Stark 1985,1,1,1,Placebo,169,-8.2,9,CFB,US,6,41,68,HAMD,27.93,5.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Stark 1985,2,42,27,SSRIs,185,-11,10.1,CFB,US,6,41,68,HAMD,27.93,5.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Stark 1985,3,48,28,TCAs,185,-12,10.1,CFB,US,6,41,68,HAMD,27.93,5.66,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Study 62b (FDA),1,1,1,Placebo,48,-5.69,8.65,CFB,NR,6,40,57,HAMD,24.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Study 62b (FDA),2,42,27,SSRIs,97,-9.78,8.47,CFB,NR,6,40,57,HAMD,24.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Study 62b (FDA),3,42,27,SSRIs,103,-7.2,9.03,CFB,NR,6,40,57,HAMD,24.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Study 89306 (FDA),1,1,1,Placebo,88,-15.95,13.22,CFB,NR,6,NA,NA,MADRS,32.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Study 89306 (FDA),2,40,27,SSRIs,88,-17.94,12.91,CFB,NR,6,NA,NA,MADRS,32.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Study 89306 (FDA),3,40,27,SSRIs,97,-16.04,13.53,CFB,NR,6,NA,NA,MADRS,32.35,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Study F1J-MC-HMAQ - Study Group B,1,1,1,Placebo,72,-7.1,6.96,CFB,US,10,40.4,NA,HAMD,18.47,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Study F1J-MC-HMAQ - Study Group B,2,42,27,SSRIs,37,-7.63,7,CFB,US,10,40.4,NA,HAMD,18.47,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Study F1J-MC-HMAQ - Study Group B,3,51,29,SNRIs,81,-8,6.75,CFB,US,10,40.4,NA,HAMD,18.47,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Suleman 1997,1,42,27,SSRIs,15,-18.2,2.364318083507378,BF,Zimbabwe,6,NA,NA,HAMD,24.15,3.14,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,0,1,1,1,0
+Suleman 1997,2,45,28,TCAs,15,-15.899999999999999,3.148015247739439,BF,Zimbabwe,6,NA,NA,HAMD,24.15,3.14,Unclear risk,Low risk,Unclear risk,Unclear risk,Unclear risk,High risk,High risk,1,0,1,1,1,0
+Sun 2013,1,42,27,SSRIs,25,-11.200000000000001,4.009775554816005,BF,China,6,42,77,HAMD,23.34,3.22,Low risk,Low risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,0,0,2,1,2,1
+Sun 2013,2,57,32,Acupuncture,20,-14.350000000000001,3.0570737642392602,BF,China,6,42,77,HAMD,23.34,3.22,Low risk,Low risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,0,0,2,1,2,1
+Sun 2013,3,57,32,Acupuncture,16,-12.87,2.8687802285989075,BF,China,6,42,77,HAMD,23.34,3.22,Low risk,Low risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,0,0,2,1,2,1
+Thase 2018,1,10,9,Cognitive and cognitive behavioural therapies individual,77,-10.400000000000002,5.494542747126461,BF,US,16,46.3,66,HAMD,19.700000000000003,3.64,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Thase 2018,2,25,17,Self-help with support,77,-10.9,4.9,BF,US,16,46.3,66,HAMD,19.700000000000003,3.64,Low risk,Low risk,High risk,Low risk,Low risk,High risk,Low risk,0,0,2,0,0,1
+Tollefson 1993/1995,1,1,1,Placebo,329,-6.4,7.1,CFB,US,6,67.7,55,HAMD,22.15,3.85,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Tollefson 1993/1995,2,42,27,SSRIs,326,-8.1,7.6,CFB,US,6,67.7,55,HAMD,22.15,3.85,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Tollefson 1994,1,42,27,SSRIs,62,-10,6.7,CFB,US,8,37.8,69,HAMD,21.45,3.84,High risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,2,1,0,1,2,1
+Tollefson 1994,2,48,28,TCAs,60,-9.1,8,CFB,US,8,37.8,69,HAMD,21.45,3.84,High risk,Unclear risk,Low risk,Unclear risk,High risk,Unclear risk,High risk,2,1,0,1,2,1
+Tong 2020,1,53,30,Any AD,45,-16.66,4.416740879879642,BF,China,8,37.7,70,HAMD,29.94,5.08,Low risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,0,1,2,0,0,1
+Tong 2020,2,76,39,Cognitive and cognitive behavioural therapies group + AD,43,-19.04,4.535239795203777,BF,China,8,37.7,70,HAMD,29.94,5.08,Low risk,Unclear risk,High risk,Low risk,Low risk,Unclear risk,Low risk,0,1,2,0,0,1
+Tsutsui 2000,1,7,7,Trazodone,105,-9.7,9.2,CFB,Japan,6,38.8,NA,HAMD,24,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Tsutsui 2000,2,43,27,SSRIs,106,-12.1,9.2,CFB,Japan,6,38.8,NA,HAMD,24,NA,Unclear risk,Unclear risk,Low risk,Low risk,Low risk,Low risk,High risk,1,1,0,0,0,0
+Tylee 1997,1,42,27,SSRIs,170,-75.5,6.512259902787566,BF,UK,12,44.5,71,MADRS,28.55,5.3,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Tylee 1997,2,52,29,SNRIs,171,-71.2,6.575853903457053,BF,UK,12,44.5,71,MADRS,28.55,5.3,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Tzanakaki 2000,1,42,27,SSRIs,54,-13.810040058714952,5.6,BIN,Greece & Italy,6,48,79,HAMD,27.45,5.59,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Tzanakaki 2000,2,52,29,SNRIs,55,-14.539437648199998,5.6,BIN,Greece & Italy,6,48,79,HAMD,27.45,5.59,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Umadevi 2013,1,4,4,Waitlist,23,-2.3100000000000005,5.080088581904847,BF,India,4,NA,49,HADS-D,14.6,4.25,High risk,Low risk,High risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,2,0,2,1,1,1
+Umadevi 2013,2,65,35,Yoga group,20,-10.55,4.175511944660199,BF,India,4,NA,49,HADS-D,14.6,4.25,High risk,Low risk,High risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,2,0,2,1,1,1
+VEN 600A-303 (FDA),1,1,1,Placebo,79,-9.89,8.45,CFB,US,6,38.5,69,HAMD,24.14,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN 600A-303 (FDA),2,52,29,SNRIs,69,-10.14,8.45,CFB,US,6,38.5,69,HAMD,24.14,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN 600A-313 (FDA),1,1,1,Placebo,75,-9.49,8.2,CFB,US,6,38.4,67,HAMD,25.51,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN 600A-313 (FDA),2,52,29,SNRIs,72,-10.92,6.63,CFB,US,6,38.4,67,HAMD,25.51,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN 600A-313 (FDA),3,52,29,SNRIs,77,-11.83,9.77,CFB,US,6,38.4,67,HAMD,25.51,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN XR 367 (FDA),1,1,1,Placebo,81,-13.1,10.63,CFB,Europe,8,NA,63,HAMD,26.58,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN XR 367 (FDA),2,43,27,SSRIs,80,-11.26,10.55,CFB,Europe,8,NA,63,HAMD,26.58,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+VEN XR 367 (FDA),3,52,29,SNRIs,75,-14.63,10.62,CFB,Europe,8,NA,63,HAMD,26.58,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Valle-Cabrera 2018,1,1,1,Placebo,38,-10.307384170673341,2.8,BIN,Cuba,10,45.2,92,HAMD,23.1,2.55,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Valle-Cabrera 2018,2,44,27,SSRIs,39,-12.776544698367935,2.3,BIN,Cuba,10,45.2,92,HAMD,23.1,2.55,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Van Moffaert 1995b,1,6,6,Mirtazapine,100,-15.968663268792525,4.9,BIN,Belgium,6,46.2,70,HAMD,28.35,5.06,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Van Moffaert 1995b,2,7,7,Trazodone,100,-13.877851432119426,5.1,BIN,Belgium,6,46.2,70,HAMD,28.35,5.06,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Ventura 2007,1,41,27,SSRIs,104,-19.1,9.18,CFB,US,8,39.3,58,MADRS,29.25,4.11,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Ventura 2007,2,44,27,SSRIs,107,-18.4,9.31,CFB,US,8,39.3,58,MADRS,29.25,4.11,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Versiani 1989,1,1,1,Placebo,162,-22.04120827431965,5,BIN,South America,6,42,76,HAMD,25.45,5.04,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Versiani 1989,2,48,28,TCAs,164,-20.158138522141222,5.1,BIN,South America,6,42,76,HAMD,25.45,5.04,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,Unclear risk,1,1,0,1,0,0
+Versiani 1999,1,42,27,SSRIs,77,-16.6,7.3,CFB,"Brazil, Colombia, Mexico, Peru & Venezuela",8,41.3,76,HAMD,26.35,4.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Versiani 1999,2,45,28,TCAs,79,-18.1,7.5,CFB,"Brazil, Colombia, Mexico, Peru & Venezuela",8,41.3,76,HAMD,26.35,4.49,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Versiani 2005,1,6,6,Mirtazapine,145,-94.3,7.034870509062529,BF,Europe & South America,8,NA,72,MADRS,35.5,6.01,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+Versiani 2005,2,42,27,SSRIs,147,-90.9,7.034870509062529,BF,Europe & South America,8,NA,72,MADRS,35.5,6.01,High risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,2,1,0,1,1,1
+WELL AK1A4006,1,1,1,Placebo,148,-12.2,9.73,CFB,US,8,37.9,NA,HAMD,25.25,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+WELL AK1A4006,2,42,27,SSRIs,146,-13.9,10.87,CFB,US,8,37.9,NA,HAMD,25.25,NA,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Low risk,High risk,1,1,0,1,0,0
+Wade 2002,1,1,1,Placebo,189,-12,7.926537705707328,BF,"Canada, Estonia, France, Netherlands & UK",8,40.5,76,MADRS,28.95,3.96,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Wade 2002,2,41,27,SSRIs,188,-14.899999999999999,7.888599368709251,BF,"Canada, Estonia, France, Netherlands & UK",8,40.5,76,MADRS,28.95,3.96,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,1,0,1,0,0
+Wade 2007,1,41,27,SSRIs,141,-23.61,5.9662081992515805,BF,"Belgium, Canada, the Czech Republic, France, Germany, Italy, Spain, Sweden & UK",24,43.9,72,MADRS,32.3,4.35,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Wade 2007,2,51,29,SNRIs,146,-21.520000000000003,6.024330470286226,BF,"Belgium, Canada, the Czech Republic, France, Germany, Italy, Spain, Sweden & UK",24,43.9,72,MADRS,32.3,4.35,Low risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,0,0,1,0,0
+Wang 2013,1,43,27,SSRIs,24,-11.42,7.5344276491316835,BF,Hong Kong,24,47.6,0.55,MADRS,23.75,6.95,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,High risk,0,1,2,1,1,1
+Wang 2013,2,57,32,Acupuncture,24,-10.95,6.08092920531065,BF,Hong Kong,24,47.6,0.55,MADRS,23.75,6.95,Low risk,Unclear risk,High risk,Unclear risk,Unclear risk,Unclear risk,High risk,0,1,2,1,1,1
+Wang 2014a,1,39,27,SSRIs,26,-13.870000000000001,1.7359147444503122,BF,China,6,NA,72,HAMD,22.12,4.38,Unclear risk,Low risk,High risk,Low risk,Low risk,Unclear risk,High risk,1,0,2,0,0,1
+Wang 2014a,2,96,49,Acupuncture + AD,45,-15.849999999999998,3.711401352589072,BF,China,6,NA,72,HAMD,22.12,4.38,Unclear risk,Low risk,High risk,Low risk,Low risk,Unclear risk,High risk,1,0,2,0,0,1
+Wang 2014c,1,1,1,Placebo,153,-78.81,6.639971794448689,BF,"Canada, China, Finland, South Korea, Malaysia, Mexico, The Philippines, South Africa, & Spain",8,40,71,MADRS,31.8,5.5,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Wang 2014c,2,41,27,SSRIs,152,-80.72999999999999,6.7697195831081345,BF,"Canada, China, Finland, South Korea, Malaysia, Mexico, The Philippines, South Africa, & Spain",8,40,71,MADRS,31.8,5.5,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,High risk,High risk,0,1,0,1,0,0
+Ward 2000/King 2000,1,5,5,TAU,67,-8.2,11.072939989000211,BF,UK,16,37.4,77,BDI,26.48,8.64,Low risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,0,0,2,1,0,1
+Ward 2000/King 2000,2,11,9,Cognitive and cognitive behavioural therapies individual,63,-13.3,9.82242332624694,BF,UK,16,37.4,77,BDI,26.48,8.64,Low risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,0,0,2,1,0,1
+Ward 2000/King 2000,3,17,13,Counselling individual,67,-12.499999999999998,8.970507232035432,BF,UK,16,37.4,77,BDI,26.48,8.64,Low risk,Low risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,0,0,2,1,0,1
+Wernicke 1987,1,1,1,Placebo,48,-5.7,8.6,CFB,US,6,39.8,57,NR,NA,NA,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Wernicke 1987,2,42,27,SSRIs,97,-9.8,8.5,CFB,US,6,39.8,57,NR,NA,NA,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Wernicke 1987,3,42,27,SSRIs,97,-9.6,8.2,CFB,US,6,39.8,57,NR,NA,NA,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Wernicke 1987,4,42,27,SSRIs,103,-7.2,9.1,CFB,US,6,39.8,57,NR,NA,NA,Low risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,1,0,1,0,0
+Wernicke 1988,1,1,1,Placebo,77,-7,8.6,CFB,US,6,NA,NA,HAMD,25.41,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Wernicke 1988,2,42,27,SSRIs,91,-10,8.4,CFB,US,6,NA,NA,HAMD,25.41,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Wernicke 1988,3,42,27,SSRIs,92,-11.2,8.2,CFB,US,6,NA,NA,HAMD,25.41,4.36,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Wheatley 1998,1,6,6,Mirtazapine,60,-66.2,6.024330470286226,BF,"UK, Belgium, & Netherlands",6,47.4,57,HAMD,26.05,4.33,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+Wheatley 1998,2,42,27,SSRIs,63,-62.5,5.9662081992515805,BF,"UK, Belgium, & Netherlands",6,47.4,57,HAMD,26.05,4.33,Unclear risk,Low risk,Low risk,Unclear risk,Low risk,High risk,High risk,1,0,0,1,0,0
+White 1984,1,1,1,Placebo,45,-17,8.8,CFB,US,4,37.1,48,HAMD,26.15,6.83,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,0,1,1,0
+White 1984,2,50,28,TCAs,40,-11.7,8.2,CFB,US,4,37.1,48,HAMD,26.15,6.83,Low risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,0,1,1,0
+Whitmyer 2007,1,51,29,SNRIs,202,-7.43,6.4,CFB,US,6,43,64,HAMD,21.5,3.64,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Whitmyer 2007,2,51,29,SNRIs,195,-7.46,6.42,CFB,US,6,43,64,HAMD,21.5,3.64,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Whitmyer 2007,3,51,29,SNRIs,198,-8.26,6.47,CFB,US,6,43,64,HAMD,21.5,3.64,Unclear risk,Unclear risk,Low risk,High risk,Low risk,Low risk,High risk,1,1,0,2,0,1
+Wilson 1982,1,1,1,Placebo,12,-10.33,9.632491889433387,BF,Australia,8,NA,NA,BDI,25.2,5.47,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Wilson 1982,2,38,26,Relaxation individual + placebo,11,-9.27,9.000072221932443,BF,Australia,8,NA,NA,BDI,25.2,5.47,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Wilson 1982,3,45,28,TCAs,10,-11.200000000000001,8.430284692701665,BF,Australia,8,NA,NA,BDI,25.2,5.47,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Wilson 1982,4,67,37,Behavioural therapies individual + AD,12,-13.659999999999998,8.632189756950433,BF,Australia,8,NA,NA,BDI,25.2,5.47,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Wilson 1982,5,86,45,Relaxation individual + AD,10,-14.600000000000001,5.509455508487204,BF,Australia,8,NA,NA,BDI,25.2,5.47,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Wright 2005,1,4,4,Waitlist,15,-1.9,5.5,CFB,US,8,40.2,76,HAMD,17.87,5.42,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Wright 2005,2,11,9,Cognitive and cognitive behavioural therapies individual,15,-8.3,6.6,CFB,US,8,40.2,76,HAMD,17.87,5.42,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Wright 2005,3,25,17,Self-help with support,15,-7.5,6.3,CFB,US,8,40.2,76,HAMD,17.87,5.42,High risk,Unclear risk,High risk,Unclear risk,Low risk,Unclear risk,Low risk,2,1,2,1,0,1
+Xiaoling 2018,1,41,27,SSRIs,65,-10.25,2.742827008763039,BF,China,6,36,55,HAMD,21.379999999999995,3.57,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,1,1,1,0
+Xiaoling 2018,2,42,27,SSRIs,65,-8.329999999999998,3.247629905023046,BF,China,6,36,55,HAMD,21.379999999999995,3.57,Low risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Unclear risk,0,1,1,1,1,0
+Yevtushenko 2007,1,40,27,SSRIs,108,-25.19,8.11,CFB,Russia,6,35.2,59,MADRS,35.24,3.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Yevtushenko 2007,2,41,27,SSRIs,108,-28.7,8.11,CFB,Russia,6,35.2,59,MADRS,35.24,3.71,Unclear risk,Unclear risk,Low risk,Unclear risk,Unclear risk,High risk,High risk,1,1,0,1,1,0
+Zhang 2007a,1,43,27,SSRIs,20,-18.599999999999998,5.1643005334701435,BF,China,6,36.8,50,HAMD,28.82,5.9,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Zhang 2007a,2,95,49,Acupuncture + AD,22,-22,5.2848841046895245,BF,China,6,36.8,50,HAMD,28.82,5.9,Unclear risk,Unclear risk,High risk,Unclear risk,Unclear risk,High risk,Unclear risk,1,1,2,1,1,1
+Zhang 2014,1,1,1,Placebo,180,-8.29,6.5,CFB,China,6,38.9,61,HAMD,21.75,3.11,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Zhang 2014,2,7,7,Trazodone,183,-11.07,6.5,CFB,China,6,38.9,61,HAMD,21.75,3.11,Low risk,Low risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,0,0,0,1,0,0
+Zhang 2019,1,6,6,Mirtazapine,79,-15.899999999999999,2.066397831977183,BF,China,8,35.3,54,HAMD,23.25,1.95,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,1,1,1,0
+Zhang 2019,2,42,27,SSRIs,79,-14.8,2.1656407827707715,BF,China,8,35.3,54,HAMD,23.25,1.95,Unclear risk,Unclear risk,Unclear risk,Unclear risk,Unclear risk,High risk,Low risk,1,1,1,1,1,0
+Zhao 2006,1,7,7,Trazodone,55,-15.4,11.1,CFB,China,6,37.3,53,HAMD,29.31,7.19,Unclear risk,Unclear risk,High risk,High risk,Low risk,High risk,High risk,1,1,2,2,0,1
+Zhao 2006,2,42,27,SSRIs,58,-20.7,9.5,CFB,China,6,37.3,53,HAMD,29.31,7.19,Unclear risk,Unclear risk,High risk,High risk,Low risk,High risk,High risk,1,1,2,2,0,1
+Zhao 2019a,1,39,27,SSRIs,156,-12.879999999999999,5.346802782972269,BF,China,6,41.5,65,HAMD,24.87,5.06,Unclear risk,Low risk,High risk,Unclear risk,Low risk,High risk,Low risk,1,0,2,1,0,1
+Zhao 2019a,2,93,49,Acupuncture + AD,160,-15.820000000000002,5.045829961463228,BF,China,6,41.5,65,HAMD,24.87,5.06,Unclear risk,Low risk,High risk,Unclear risk,Low risk,High risk,Low risk,1,0,2,1,0,1
+Zhao 2019a,3,96,49,Acupuncture + AD,161,-14.56,5.5021177740938985,BF,China,6,41.5,65,HAMD,24.87,5.06,Unclear risk,Low risk,High risk,Unclear risk,Low risk,High risk,Low risk,1,0,2,1,0,1
+Zivkov 1995,1,6,6,Mirtazapine,113,-15.2,8.748142660016468,BF,Former Yugoslavia,6,46.9,78,HAMD,27.8,4.84,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Zivkov 1995,2,45,28,TCAs,111,-15.600000000000001,8.662563131083086,BF,Former Yugoslavia,6,46.9,78,HAMD,27.8,4.84,Unclear risk,Unclear risk,Low risk,Unclear risk,Low risk,Unclear risk,High risk,1,1,0,1,0,0
+Zu 2014,1,5,5,TAU,16,-7.8,7,CFB,China,24,38.5,51,QIDS,14.72,4.72,High risk,Unclear risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,2,1,2,1,2,1
+Zu 2014,2,10,9,Cognitive and cognitive behavioural therapies individual,12,-9.6,2.4,CFB,China,24,38.5,51,QIDS,14.72,4.72,High risk,Unclear risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,2,1,2,1,2,1
+Zu 2014,3,39,27,SSRIs,25,-6.9,6.8,CFB,China,24,38.5,51,QIDS,14.72,4.72,High risk,Unclear risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,2,1,2,1,2,1
+Zu 2014,4,70,38,Cognitive and cognitive behavioural therapies individual + AD,43,-9.8,4.7,CFB,China,24,38.5,51,QIDS,14.72,4.72,High risk,Unclear risk,High risk,Unclear risk,High risk,Unclear risk,Low risk,2,1,2,1,2,1
